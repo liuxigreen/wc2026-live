@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-13T19:49:37.283954+00:00",
+  "updated_at": "2026-06-13T19:54:51.459752+00:00",
   "matches": [
     {
       "home": "qatar",
       "away": "switzerland",
-      "hours_until": -0.8,
+      "hours_until": -0.9,
       "city": "Santa Clara, California",
       "venue": "Levi's Stadium",
       "money_line": {
@@ -57,25 +57,25 @@
       "market_odds": {
         "source": "pinnacle",
         "time": "2026-06-13T19:04:00Z",
-        "dog_spread": 1.5,
-        "dog_odds": 1.89,
-        "fav_spread": -1.5,
-        "fav_odds": 1.99,
+        "dog_spread": 1.25,
+        "dog_odds": 1.8,
+        "fav_spread": -1.25,
+        "fav_odds": 2.09,
         "over_odds": 1.99,
-        "over_point": 3.0,
+        "over_point": 2.5,
         "under_odds": 1.89
       },
       "edge": {
         "over": {
           "market_odds": 1.99,
-          "point": 3.0
+          "point": 2.5
         }
       }
     },
     {
       "home": "haiti",
       "away": "scotland",
-      "hours_until": 4.2,
+      "hours_until": 4.1,
       "city": "",
       "venue": "",
       "money_line": {
@@ -179,7 +179,7 @@
     {
       "home": "australia",
       "away": "turkey",
-      "hours_until": 4.2,
+      "hours_until": 4.1,
       "city": "",
       "venue": "",
       "money_line": {
@@ -283,7 +283,7 @@
     {
       "home": "germany",
       "away": "curacao",
-      "hours_until": 4.2,
+      "hours_until": 4.1,
       "city": "",
       "venue": "",
       "money_line": {
@@ -339,7 +339,7 @@
     {
       "home": "netherlands",
       "away": "japan",
-      "hours_until": 4.2,
+      "hours_until": 4.1,
       "city": "",
       "venue": "",
       "money_line": {
@@ -443,7 +443,7 @@
     {
       "home": "ivory-coast",
       "away": "ecuador",
-      "hours_until": 4.2,
+      "hours_until": 4.1,
       "city": "",
       "venue": "",
       "money_line": {

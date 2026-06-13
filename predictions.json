@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-13T19:18:09.780492+00:00",
+  "updated_at": "2026-06-13T19:23:24.403952+00:00",
   "matches": [
     {
       "home": "qatar",
       "away": "switzerland",
-      "hours_until": -0.3,
+      "hours_until": -0.4,
       "city": "Santa Clara, California",
       "venue": "Levi's Stadium",
       "money_line": {
@@ -57,25 +57,58 @@
       "market_odds": {
         "source": "pinnacle",
         "time": "2026-06-13T19:04:00Z",
-        "dog_spread": 1.75,
-        "dog_odds": 2.06,
-        "fav_spread": -1.75,
-        "fav_odds": 1.83,
-        "over_odds": 1.85,
-        "over_point": 2.5,
-        "under_odds": 2.03
+        "home_odds": 54.68,
+        "home_implied": 1.8,
+        "away_odds": 1.04,
+        "away_implied": 96.2,
+        "draw_odds": 13.5,
+        "draw_implied": 7.4,
+        "dog_spread": 1.5,
+        "dog_odds": 1.95,
+        "fav_spread": -1.5,
+        "fav_odds": 1.93,
+        "over_odds": 1.88,
+        "over_point": 3.25,
+        "under_odds": 2.01
       },
       "edge": {
+        "home": {
+          "model_pct": 14.2,
+          "market_odds": 54.68,
+          "market_implied": 1.8,
+          "edge": 12.4,
+          "kelly_full": 12.6,
+          "kelly_quarter": 3.2,
+          "has_edge": true
+        },
+        "draw": {
+          "model_pct": 23.7,
+          "market_odds": 13.5,
+          "market_implied": 7.4,
+          "edge": 16.3,
+          "kelly_full": 17.6,
+          "kelly_quarter": 4.4,
+          "has_edge": true
+        },
+        "away": {
+          "model_pct": 62.1,
+          "market_odds": 1.04,
+          "market_implied": 96.2,
+          "edge": -34.1,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
         "over": {
-          "market_odds": 1.85,
-          "point": 2.5
+          "market_odds": 1.88,
+          "point": 3.25
         }
       }
     },
     {
       "home": "haiti",
       "away": "scotland",
-      "hours_until": 4.7,
+      "hours_until": 4.6,
       "city": "",
       "venue": "",
       "money_line": {
@@ -179,7 +212,7 @@
     {
       "home": "australia",
       "away": "turkey",
-      "hours_until": 4.7,
+      "hours_until": 4.6,
       "city": "",
       "venue": "",
       "money_line": {
@@ -283,7 +316,7 @@
     {
       "home": "germany",
       "away": "curacao",
-      "hours_until": 4.7,
+      "hours_until": 4.6,
       "city": "",
       "venue": "",
       "money_line": {
@@ -339,7 +372,7 @@
     {
       "home": "netherlands",
       "away": "japan",
-      "hours_until": 4.7,
+      "hours_until": 4.6,
       "city": "",
       "venue": "",
       "money_line": {
@@ -443,7 +476,7 @@
     {
       "home": "ivory-coast",
       "away": "ecuador",
-      "hours_until": 4.7,
+      "hours_until": 4.6,
       "city": "",
       "venue": "",
       "money_line": {

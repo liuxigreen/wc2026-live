@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-13T22:28:26.582815+00:00",
+  "updated_at": "2026-06-13T22:33:32.870402+00:00",
   "matches": [
     {
       "home": "brazil",
       "away": "morocco",
-      "hours_until": -0.5,
+      "hours_until": -0.6,
       "city": "East Rutherford, New Jersey",
       "venue": "MetLife Stadium",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "state": "in",
       "status": "STATUS_FIRST_HALF",
       "money_line": {
@@ -64,7 +64,7 @@
     {
       "home": "haiti",
       "away": "scotland",
-      "hours_until": 1.5,
+      "hours_until": 1.4,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "australia",
       "away": "turkey",
-      "hours_until": 1.5,
+      "hours_until": 1.4,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "germany",
       "away": "curacao",
-      "hours_until": 1.5,
+      "hours_until": 1.4,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -244,7 +244,7 @@
     {
       "home": "netherlands",
       "away": "japan",
-      "hours_until": 1.5,
+      "hours_until": 1.4,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -304,7 +304,7 @@
     {
       "home": "ivory-coast",
       "away": "ecuador",
-      "hours_until": 1.5,
+      "hours_until": 1.4,
       "city": "",
       "venue": "",
       "home_score": 0,

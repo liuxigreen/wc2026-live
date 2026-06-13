@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-06-13T21:07:02.358981+00:00",
+  "updated_at": "2026-06-13T22:13:08.792352+00:00",
   "matches": [
     {
-      "home": "qatar",
-      "away": "switzerland",
-      "hours_until": -2.1,
-      "city": "Santa Clara, California",
-      "venue": "Levi's Stadium",
-      "home_score": 1,
-      "away_score": 1,
+      "home": "brazil",
+      "away": "morocco",
+      "hours_until": -0.2,
+      "city": "East Rutherford, New Jersey",
+      "venue": "MetLife Stadium",
+      "home_score": 0,
+      "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "14.2",
-        "draw": "23.7",
-        "win_b": "62.1"
+        "win_a": "65.0",
+        "draw": "22.7",
+        "win_b": "12.3"
       },
       "xg": {
-        "a": "0.85",
-        "b": "1.96"
+        "a": "2.02",
+        "b": "0.79"
       },
       "elo": {
-        "a": 1552,
+        "a": 1994,
         "b": 10,
-        "diff": 1542
+        "diff": 1984
       },
       "top_scores": [
         [
-          "0-2",
-          "11.6"
+          "2-0",
+          "12.3"
+        ],
+        [
+          "1-0",
+          "11.0"
         ],
         [
           "1-1",
-          "11.3"
-        ],
-        [
-          "0-1",
-          "10.5"
+          "10.8"
         ]
       ],
       "over_under": {
@@ -46,17 +46,17 @@
         }
       },
       "btts": {
-        "yes": "50.4",
-        "no": "49.6"
+        "yes": "48.5",
+        "no": "51.5"
       },
       "spread": {
-        "qatar -1.5": "4.8",
-        "switzerland +1.5": "95.2"
+        "brazil -1.5": "41.4",
+        "morocco +1.5": "58.6"
       },
       "half_time": {
-        "win_a": "14.8",
-        "draw": "41.6",
-        "win_b": "43.6"
+        "win_a": "45.4",
+        "draw": "41.1",
+        "win_b": "13.4"
       },
       "market_odds": null,
       "edge": {}
@@ -64,7 +64,7 @@
     {
       "home": "haiti",
       "away": "scotland",
-      "hours_until": 2.9,
+      "hours_until": 1.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "australia",
       "away": "turkey",
-      "hours_until": 2.9,
+      "hours_until": 1.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "germany",
       "away": "curacao",
-      "hours_until": 2.9,
+      "hours_until": 1.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -244,7 +244,7 @@
     {
       "home": "netherlands",
       "away": "japan",
-      "hours_until": 2.9,
+      "hours_until": 1.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -304,7 +304,7 @@
     {
       "home": "ivory-coast",
       "away": "ecuador",
-      "hours_until": 2.9,
+      "hours_until": 1.8,
       "city": "",
       "venue": "",
       "home_score": 0,

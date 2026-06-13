@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-13T19:59:59.260451+00:00",
+  "updated_at": "2026-06-13T20:05:05.027539+00:00",
   "matches": [
     {
       "home": "qatar",
       "away": "switzerland",
-      "hours_until": -1.0,
+      "hours_until": -1.1,
       "city": "Santa Clara, California",
       "venue": "Levi's Stadium",
       "money_line": {
@@ -60,7 +60,7 @@
     {
       "home": "haiti",
       "away": "scotland",
-      "hours_until": 4.0,
+      "hours_until": 3.9,
       "city": "",
       "venue": "",
       "money_line": {
@@ -116,7 +116,7 @@
     {
       "home": "australia",
       "away": "turkey",
-      "hours_until": 4.0,
+      "hours_until": 3.9,
       "city": "",
       "venue": "",
       "money_line": {
@@ -172,7 +172,7 @@
     {
       "home": "germany",
       "away": "curacao",
-      "hours_until": 4.0,
+      "hours_until": 3.9,
       "city": "",
       "venue": "",
       "money_line": {
@@ -228,7 +228,7 @@
     {
       "home": "netherlands",
       "away": "japan",
-      "hours_until": 4.0,
+      "hours_until": 3.9,
       "city": "",
       "venue": "",
       "money_line": {
@@ -284,7 +284,7 @@
     {
       "home": "ivory-coast",
       "away": "ecuador",
-      "hours_until": 4.0,
+      "hours_until": 3.9,
       "city": "",
       "venue": "",
       "money_line": {

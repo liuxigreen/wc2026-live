@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-13T16:57:06.480506+00:00",
+  "updated_at": "2026-06-13T19:18:09.780492+00:00",
   "matches": [
     {
       "home": "qatar",
       "away": "switzerland",
-      "hours_until": 2.1,
-      "city": "",
-      "venue": "",
+      "hours_until": -0.3,
+      "city": "Santa Clara, California",
+      "venue": "Levi's Stadium",
       "money_line": {
         "win_a": "14.2",
         "draw": "23.7",
@@ -56,87 +56,54 @@
       },
       "market_odds": {
         "source": "pinnacle",
-        "time": "2026-06-13T19:00:00Z",
-        "home_odds": 15.0,
-        "home_implied": 6.7,
-        "away_odds": 1.22,
-        "away_implied": 82.0,
-        "draw_odds": 7.5,
-        "draw_implied": 13.3,
+        "time": "2026-06-13T19:04:00Z",
         "dog_spread": 1.75,
-        "dog_odds": 2.08,
+        "dog_odds": 2.06,
         "fav_spread": -1.75,
-        "fav_odds": 1.85,
+        "fav_odds": 1.83,
         "over_odds": 1.85,
-        "over_point": 2.75,
-        "under_odds": 2.06
+        "over_point": 2.5,
+        "under_odds": 2.03
       },
       "edge": {
-        "home": {
-          "model_pct": 14.2,
-          "market_odds": 15.0,
-          "market_implied": 6.7,
-          "edge": 7.5,
-          "kelly_full": 8.1,
-          "kelly_quarter": 2.0,
-          "has_edge": true
-        },
-        "draw": {
-          "model_pct": 23.7,
-          "market_odds": 7.5,
-          "market_implied": 13.3,
-          "edge": 10.4,
-          "kelly_full": 12.0,
-          "kelly_quarter": 3.0,
-          "has_edge": true
-        },
-        "away": {
-          "model_pct": 62.1,
-          "market_odds": 1.22,
-          "market_implied": 82.0,
-          "edge": -19.9,
-          "kelly_full": 0,
-          "kelly_quarter": 0,
-          "has_edge": false
-        },
         "over": {
           "market_odds": 1.85,
-          "point": 2.75
+          "point": 2.5
         }
       }
     },
     {
-      "home": "brazil",
-      "away": "morocco",
-      "hours_until": 5.1,
+      "home": "haiti",
+      "away": "scotland",
+      "hours_until": 4.7,
       "city": "",
       "venue": "",
       "money_line": {
-        "win_a": "64.3",
-        "draw": "22.9",
-        "win_b": "12.8"
+        "win_a": "20.2",
+        "draw": "26.1",
+        "win_b": "53.6"
       },
       "xg": {
-        "a": "2.01",
-        "b": "0.8"
+        "a": "1.03",
+        "b": "1.78"
       },
       "elo": {
-        "a": 1994,
+        "a": 1481,
         "b": 10,
-        "diff": 1984
+        "diff": 1471
       },
       "top_scores": [
         [
-          "2-0",
-          "12.2"
-        ],
-        [
           "1-1",
-          "11.0"
+          "12.5"
         ],
         [
-          "1-0",
-          "10.9"
+          "1-2",
+          "9.8"
+        ],
+        [
+          "0-2",
+          "9.6"
         ]
       ],
       "over_under": {
@@ -146,73 +113,177 @@
         }
       },
       "btts": {
-        "yes": "48.9",
-        "no": "51.1"
+        "yes": "54.8",
+        "no": "45.2"
       },
       "spread": {
-        "brazil -1.5": "40.7",
-        "morocco +1.5": "59.3"
+        "haiti -1.5": "7.8",
+        "scotland +1.5": "92.2"
       },
       "half_time": {
-        "win_a": "45.0",
-        "draw": "41.2",
-        "win_b": "13.7"
+        "win_a": "18.8",
+        "draw": "42.8",
+        "win_b": "38.5"
       },
       "market_odds": {
         "source": "pinnacle",
-        "time": "2026-06-13T22:00:00Z",
-        "home_odds": 1.7,
-        "home_implied": 58.8,
-        "away_odds": 5.68,
-        "away_implied": 17.6,
-        "draw_odds": 3.81,
-        "draw_implied": 26.2,
-        "fav_spread": -0.75,
-        "fav_odds": 1.93,
-        "dog_spread": 0.75,
-        "dog_odds": 2.01,
-        "over_odds": 1.94,
-        "over_point": 2.25,
-        "under_odds": 1.96
+        "time": "2026-06-14T01:00:00Z",
+        "home_odds": 6.0,
+        "home_implied": 16.7,
+        "away_odds": 1.56,
+        "away_implied": 64.1,
+        "draw_odds": 4.65,
+        "draw_implied": 21.5,
+        "dog_spread": 1.0,
+        "dog_odds": 2.02,
+        "fav_spread": -1.0,
+        "fav_odds": 1.91,
+        "over_odds": 2.09,
+        "over_point": 3.0,
+        "under_odds": 1.83
       },
       "edge": {
         "home": {
-          "model_pct": 64.3,
-          "market_odds": 1.7,
-          "market_implied": 58.8,
-          "edge": 5.5,
-          "kelly_full": 13.3,
-          "kelly_quarter": 3.3,
+          "model_pct": 20.2,
+          "market_odds": 6.0,
+          "market_implied": 16.7,
+          "edge": 3.5,
+          "kelly_full": 4.2,
+          "kelly_quarter": 1.1,
           "has_edge": true
         },
         "draw": {
-          "model_pct": 22.9,
-          "market_odds": 3.81,
-          "market_implied": 26.2,
-          "edge": -3.3,
-          "kelly_full": 0,
-          "kelly_quarter": 0,
-          "has_edge": false
+          "model_pct": 26.1,
+          "market_odds": 4.65,
+          "market_implied": 21.5,
+          "edge": 4.6,
+          "kelly_full": 5.9,
+          "kelly_quarter": 1.5,
+          "has_edge": true
         },
         "away": {
-          "model_pct": 12.8,
-          "market_odds": 5.68,
-          "market_implied": 17.6,
-          "edge": -4.8,
+          "model_pct": 53.6,
+          "market_odds": 1.56,
+          "market_implied": 64.1,
+          "edge": -10.5,
           "kelly_full": 0,
           "kelly_quarter": 0,
           "has_edge": false
         },
         "over": {
-          "market_odds": 1.94,
-          "point": 2.25
+          "market_odds": 2.09,
+          "point": 3.0
+        }
+      }
+    },
+    {
+      "home": "australia",
+      "away": "turkey",
+      "hours_until": 4.7,
+      "city": "",
+      "venue": "",
+      "money_line": {
+        "win_a": "42.9",
+        "draw": "28.0",
+        "win_b": "29.1"
+      },
+      "xg": {
+        "a": "1.56",
+        "b": "1.25"
+      },
+      "elo": {
+        "a": 1769,
+        "b": 10,
+        "diff": 1759
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "13.3"
+        ],
+        [
+          "2-1",
+          "9.1"
+        ],
+        [
+          "1-0",
+          "7.9"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "53.2",
+          "under": "46.8"
+        }
+      },
+      "btts": {
+        "yes": "57.9",
+        "no": "42.1"
+      },
+      "spread": {
+        "australia -1.5": "22.4",
+        "turkey +1.5": "77.6"
+      },
+      "half_time": {
+        "win_a": "32.2",
+        "draw": "43.6",
+        "win_b": "24.2"
+      },
+      "market_odds": {
+        "source": "pinnacle",
+        "time": "2026-06-14T04:00:00Z",
+        "home_odds": 5.47,
+        "home_implied": 18.3,
+        "away_odds": 1.71,
+        "away_implied": 58.5,
+        "draw_odds": 3.88,
+        "draw_implied": 25.8,
+        "dog_spread": 0.75,
+        "dog_odds": 2.01,
+        "fav_spread": -0.75,
+        "fav_odds": 1.93,
+        "over_odds": 2.08,
+        "over_point": 2.5,
+        "under_odds": 1.84
+      },
+      "edge": {
+        "home": {
+          "model_pct": 42.9,
+          "market_odds": 5.47,
+          "market_implied": 18.3,
+          "edge": 24.6,
+          "kelly_full": 30.1,
+          "kelly_quarter": 7.5,
+          "has_edge": true
+        },
+        "draw": {
+          "model_pct": 28.0,
+          "market_odds": 3.88,
+          "market_implied": 25.8,
+          "edge": 2.2,
+          "kelly_full": 3.0,
+          "kelly_quarter": 0.8,
+          "has_edge": true
+        },
+        "away": {
+          "model_pct": 29.1,
+          "market_odds": 1.71,
+          "market_implied": 58.5,
+          "edge": -29.4,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "over": {
+          "market_odds": 2.08,
+          "point": 2.5
         }
       }
     },
     {
       "home": "germany",
       "away": "curacao",
-      "hours_until": 7.1,
+      "hours_until": 4.7,
       "city": "",
       "venue": "",
       "money_line": {
@@ -268,7 +339,7 @@
     {
       "home": "netherlands",
       "away": "japan",
-      "hours_until": 7.1,
+      "hours_until": 4.7,
       "city": "",
       "venue": "",
       "money_line": {
@@ -321,42 +392,42 @@
       "market_odds": {
         "source": "pinnacle",
         "time": "2026-06-14T20:00:00Z",
-        "away_odds": 3.78,
+        "away_odds": 3.77,
         "away_implied": 26.5,
-        "home_odds": 2.02,
-        "home_implied": 49.5,
-        "draw_odds": 3.64,
-        "draw_implied": 27.5,
+        "home_odds": 2.0,
+        "home_implied": 50.0,
+        "draw_odds": 3.7,
+        "draw_implied": 27.0,
         "dog_spread": 0.5,
-        "dog_odds": 1.88,
+        "dog_odds": 1.89,
         "fav_spread": -0.5,
-        "fav_odds": 2.03,
-        "over_odds": 1.97,
+        "fav_odds": 2.01,
+        "over_odds": 1.9,
         "over_point": 2.5,
-        "under_odds": 1.92
+        "under_odds": 1.99
       },
       "edge": {
         "home": {
           "model_pct": 64.2,
-          "market_odds": 2.02,
-          "market_implied": 49.5,
-          "edge": 14.7,
-          "kelly_full": 29.1,
-          "kelly_quarter": 7.3,
+          "market_odds": 2.0,
+          "market_implied": 50.0,
+          "edge": 14.2,
+          "kelly_full": 28.4,
+          "kelly_quarter": 7.1,
           "has_edge": true
         },
         "draw": {
           "model_pct": 23.0,
-          "market_odds": 3.64,
-          "market_implied": 27.5,
-          "edge": -4.5,
+          "market_odds": 3.7,
+          "market_implied": 27.0,
+          "edge": -4.0,
           "kelly_full": 0,
           "kelly_quarter": 0,
           "has_edge": false
         },
         "away": {
           "model_pct": 12.9,
-          "market_odds": 3.78,
+          "market_odds": 3.77,
           "market_implied": 26.5,
           "edge": -13.6,
           "kelly_full": 0,
@@ -364,7 +435,7 @@
           "has_edge": false
         },
         "over": {
-          "market_odds": 1.97,
+          "market_odds": 1.9,
           "point": 2.5
         }
       }
@@ -372,7 +443,7 @@
     {
       "home": "ivory-coast",
       "away": "ecuador",
-      "hours_until": 7.1,
+      "hours_until": 4.7,
       "city": "",
       "venue": "",
       "money_line": {
@@ -425,259 +496,51 @@
       "market_odds": {
         "source": "pinnacle",
         "time": "2026-06-14T23:00:00Z",
-        "away_odds": 2.41,
-        "away_implied": 41.5,
-        "home_odds": 3.76,
-        "home_implied": 26.6,
-        "draw_odds": 2.83,
-        "draw_implied": 35.3,
+        "away_odds": 2.47,
+        "away_implied": 40.5,
+        "home_odds": 3.66,
+        "home_implied": 27.3,
+        "draw_odds": 2.82,
+        "draw_implied": 35.5,
         "fav_spread": -0.25,
-        "fav_odds": 2.01,
+        "fav_odds": 2.06,
         "dog_spread": 0.25,
-        "dog_odds": 1.9,
-        "over_odds": 1.82,
+        "dog_odds": 1.86,
+        "over_odds": 1.83,
         "over_point": 1.75,
-        "under_odds": 2.09
+        "under_odds": 2.08
       },
       "edge": {
         "home": {
           "model_pct": 32.3,
-          "market_odds": 3.76,
-          "market_implied": 26.6,
-          "edge": 5.7,
-          "kelly_full": 7.8,
-          "kelly_quarter": 1.9,
+          "market_odds": 3.66,
+          "market_implied": 27.3,
+          "edge": 5.0,
+          "kelly_full": 6.8,
+          "kelly_quarter": 1.7,
           "has_edge": true
         },
         "draw": {
           "model_pct": 28.2,
-          "market_odds": 2.83,
-          "market_implied": 35.3,
-          "edge": -7.1,
+          "market_odds": 2.82,
+          "market_implied": 35.5,
+          "edge": -7.3,
           "kelly_full": 0,
           "kelly_quarter": 0,
           "has_edge": false
         },
         "away": {
           "model_pct": 39.5,
-          "market_odds": 2.41,
-          "market_implied": 41.5,
-          "edge": -2.0,
+          "market_odds": 2.47,
+          "market_implied": 40.5,
+          "edge": -1.0,
           "kelly_full": 0,
           "kelly_quarter": 0,
           "has_edge": false
         },
         "over": {
-          "market_odds": 1.82,
+          "market_odds": 1.83,
           "point": 1.75
-        }
-      }
-    },
-    {
-      "home": "haiti",
-      "away": "scotland",
-      "hours_until": 8.1,
-      "city": "",
-      "venue": "",
-      "money_line": {
-        "win_a": "20.2",
-        "draw": "26.1",
-        "win_b": "53.6"
-      },
-      "xg": {
-        "a": "1.03",
-        "b": "1.78"
-      },
-      "elo": {
-        "a": 1481,
-        "b": 10,
-        "diff": 1471
-      },
-      "top_scores": [
-        [
-          "1-1",
-          "12.5"
-        ],
-        [
-          "1-2",
-          "9.8"
-        ],
-        [
-          "0-2",
-          "9.6"
-        ]
-      ],
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
-      },
-      "btts": {
-        "yes": "54.8",
-        "no": "45.2"
-      },
-      "spread": {
-        "haiti -1.5": "7.8",
-        "scotland +1.5": "92.2"
-      },
-      "half_time": {
-        "win_a": "18.8",
-        "draw": "42.8",
-        "win_b": "38.5"
-      },
-      "market_odds": {
-        "source": "pinnacle",
-        "time": "2026-06-14T01:00:00Z",
-        "home_odds": 6.1,
-        "home_implied": 16.4,
-        "away_odds": 1.56,
-        "away_implied": 64.1,
-        "draw_odds": 4.7,
-        "draw_implied": 21.3,
-        "dog_spread": 1.0,
-        "dog_odds": 2.03,
-        "fav_spread": -1.0,
-        "fav_odds": 1.91,
-        "over_odds": 1.85,
-        "over_point": 2.75,
-        "under_odds": 2.07
-      },
-      "edge": {
-        "home": {
-          "model_pct": 20.2,
-          "market_odds": 6.1,
-          "market_implied": 16.4,
-          "edge": 3.8,
-          "kelly_full": 4.6,
-          "kelly_quarter": 1.1,
-          "has_edge": true
-        },
-        "draw": {
-          "model_pct": 26.1,
-          "market_odds": 4.7,
-          "market_implied": 21.3,
-          "edge": 4.8,
-          "kelly_full": 6.1,
-          "kelly_quarter": 1.5,
-          "has_edge": true
-        },
-        "away": {
-          "model_pct": 53.6,
-          "market_odds": 1.56,
-          "market_implied": 64.1,
-          "edge": -10.5,
-          "kelly_full": 0,
-          "kelly_quarter": 0,
-          "has_edge": false
-        },
-        "over": {
-          "market_odds": 1.85,
-          "point": 2.75
-        }
-      }
-    },
-    {
-      "home": "australia",
-      "away": "turkey",
-      "hours_until": 11.1,
-      "city": "",
-      "venue": "",
-      "money_line": {
-        "win_a": "42.9",
-        "draw": "28.0",
-        "win_b": "29.1"
-      },
-      "xg": {
-        "a": "1.56",
-        "b": "1.25"
-      },
-      "elo": {
-        "a": 1769,
-        "b": 10,
-        "diff": 1759
-      },
-      "top_scores": [
-        [
-          "1-1",
-          "13.3"
-        ],
-        [
-          "2-1",
-          "9.1"
-        ],
-        [
-          "1-0",
-          "7.9"
-        ]
-      ],
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
-      },
-      "btts": {
-        "yes": "57.9",
-        "no": "42.1"
-      },
-      "spread": {
-        "australia -1.5": "22.4",
-        "turkey +1.5": "77.6"
-      },
-      "half_time": {
-        "win_a": "32.2",
-        "draw": "43.6",
-        "win_b": "24.2"
-      },
-      "market_odds": {
-        "source": "pinnacle",
-        "time": "2026-06-14T04:00:00Z",
-        "home_odds": 5.43,
-        "home_implied": 18.4,
-        "away_odds": 1.72,
-        "away_implied": 58.1,
-        "draw_odds": 3.87,
-        "draw_implied": 25.8,
-        "dog_spread": 0.75,
-        "dog_odds": 2.0,
-        "fav_spread": -0.75,
-        "fav_odds": 1.93,
-        "over_odds": 2.08,
-        "over_point": 2.5,
-        "under_odds": 1.84
-      },
-      "edge": {
-        "home": {
-          "model_pct": 42.9,
-          "market_odds": 5.43,
-          "market_implied": 18.4,
-          "edge": 24.5,
-          "kelly_full": 30.0,
-          "kelly_quarter": 7.5,
-          "has_edge": true
-        },
-        "draw": {
-          "model_pct": 28.0,
-          "market_odds": 3.87,
-          "market_implied": 25.8,
-          "edge": 2.2,
-          "kelly_full": 2.9,
-          "kelly_quarter": 0.7,
-          "has_edge": true
-        },
-        "away": {
-          "model_pct": 29.1,
-          "market_odds": 1.72,
-          "market_implied": 58.1,
-          "edge": -29.0,
-          "kelly_full": 0,
-          "kelly_quarter": 0,
-          "has_edge": false
-        },
-        "over": {
-          "market_odds": 2.08,
-          "point": 2.5
         }
       }
     }

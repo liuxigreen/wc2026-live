@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T17:45:08.603902+00:00",
+  "updated_at": "2026-06-14T17:50:12.515822+00:00",
   "matches": [
     {
       "home": "germany",
@@ -7,7 +7,7 @@
       "hours_until": -0.8,
       "city": "Houston, Texas",
       "venue": "NRG Stadium",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "state": "in",
       "status": "STATUS_FIRST_HALF",

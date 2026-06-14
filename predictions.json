@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-14T01:53:16.721126+00:00",
+  "updated_at": "2026-06-14T01:57:44.200760+00:00",
   "matches": [
     {
       "home": "haiti",
       "away": "scotland",
-      "hours_until": -0.9,
+      "hours_until": -1.0,
       "city": "Foxborough, Massachusetts",
       "venue": "Gillette Stadium",
       "home_score": 0,
@@ -12,9 +12,9 @@
       "state": "in",
       "status": "STATUS_HALFTIME",
       "money_line": {
-        "win_a": "21.3",
-        "draw": "26.4",
-        "win_b": "52.3"
+        "win_a": "20.5",
+        "draw": "28.0",
+        "win_b": "51.5"
       },
       "xg": {
         "a": "1.05",
@@ -28,7 +28,7 @@
       "top_scores": [
         [
           "1-1",
-          "12.6"
+          "13.4"
         ],
         [
           "1-2",
@@ -46,17 +46,17 @@
         }
       },
       "btts": {
-        "yes": "55.3",
-        "no": "44.7"
+        "yes": "56.1",
+        "no": "43.9"
       },
       "spread": {
         "haiti -1.5": "8.4",
         "scotland +1.5": "91.6"
       },
       "half_time": {
-        "win_a": "19.4",
-        "draw": "42.9",
-        "win_b": "37.7"
+        "win_a": "19.2",
+        "draw": "43.6",
+        "win_b": "37.2"
       },
       "market_odds": null,
       "edge": {}
@@ -64,7 +64,7 @@
     {
       "home": "sweden",
       "away": "tunisia",
-      "hours_until": 22.1,
+      "hours_until": 22.0,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -72,9 +72,9 @@
       "state": "pre",
       "status": "Scheduled",
       "money_line": {
-        "win_a": "41.9",
-        "draw": "28.1",
-        "win_b": "30.1"
+        "win_a": "41.1",
+        "draw": "29.7",
+        "win_b": "29.2"
       },
       "xg": {
         "a": "1.53",
@@ -88,15 +88,15 @@
       "top_scores": [
         [
           "1-1",
-          "13.3"
+          "14.1"
         ],
         [
           "2-1",
           "9.0"
         ],
         [
-          "1-0",
-          "7.7"
+          "0-0",
+          "8.4"
         ]
       ],
       "over_under": {
@@ -106,17 +106,17 @@
         }
       },
       "btts": {
-        "yes": "58.0",
-        "no": "42.0"
+        "yes": "58.8",
+        "no": "41.2"
       },
       "spread": {
         "sweden -1.5": "21.6",
         "tunisia +1.5": "78.4"
       },
       "half_time": {
-        "win_a": "31.6",
-        "draw": "43.6",
-        "win_b": "24.8"
+        "win_a": "31.2",
+        "draw": "44.3",
+        "win_b": "24.5"
       },
       "market_odds": null,
       "edge": {}
@@ -124,7 +124,7 @@
     {
       "home": "spain",
       "away": "cape-verde",
-      "hours_until": 22.1,
+      "hours_until": 22.0,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -132,9 +132,9 @@
       "state": "pre",
       "status": "Scheduled",
       "money_line": {
-        "win_a": "93.8",
-        "draw": "5.5",
-        "win_b": "0.7"
+        "win_a": "93.6",
+        "draw": "5.8",
+        "win_b": "0.6"
       },
       "xg": {
         "a": "3.5",
@@ -166,16 +166,16 @@
         }
       },
       "btts": {
-        "yes": "21.7",
-        "no": "78.3"
+        "yes": "21.9",
+        "no": "78.1"
       },
       "spread": {
         "spain -1.5": "81.5",
         "cape-verde +1.5": "18.5"
       },
       "half_time": {
-        "win_a": "72.9",
-        "draw": "24.7",
+        "win_a": "72.6",
+        "draw": "24.9",
         "win_b": "2.5"
       },
       "market_odds": null,
@@ -184,7 +184,7 @@
     {
       "home": "belgium",
       "away": "egypt",
-      "hours_until": 22.1,
+      "hours_until": 22.0,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -192,9 +192,9 @@
       "state": "pre",
       "status": "Scheduled",
       "money_line": {
-        "win_a": "80.4",
-        "draw": "15.5",
-        "win_b": "4.2"
+        "win_a": "80.0",
+        "draw": "16.3",
+        "win_b": "3.7"
       },
       "xg": {
         "a": "2.38",
@@ -216,7 +216,7 @@
         ],
         [
           "1-0",
-          "13.6"
+          "13.2"
         ]
       ],
       "over_under": {
@@ -226,16 +226,16 @@
         }
       },
       "btts": {
-        "yes": "32.1",
-        "no": "67.9"
+        "yes": "32.6",
+        "no": "67.4"
       },
       "spread": {
         "belgium -1.5": "58.2",
         "egypt +1.5": "41.8"
       },
       "half_time": {
-        "win_a": "56.3",
-        "draw": "37.3",
+        "win_a": "55.9",
+        "draw": "37.7",
         "win_b": "6.4"
       },
       "market_odds": null,
@@ -244,7 +244,7 @@
     {
       "home": "saudi-arabia",
       "away": "uruguay",
-      "hours_until": 22.1,
+      "hours_until": 22.0,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -252,9 +252,9 @@
       "state": "pre",
       "status": "Scheduled",
       "money_line": {
-        "win_a": "15.6",
-        "draw": "24.4",
-        "win_b": "60.1"
+        "win_a": "14.8",
+        "draw": "25.8",
+        "win_b": "59.4"
       },
       "xg": {
         "a": "0.89",
@@ -268,15 +268,15 @@
       "top_scores": [
         [
           "1-1",
-          "11.6"
+          "12.4"
         ],
         [
           "0-2",
           "11.1"
         ],
         [
-          "0-1",
-          "10.2"
+          "1-2",
+          "9.9"
         ]
       ],
       "over_under": {
@@ -286,17 +286,17 @@
         }
       },
       "btts": {
-        "yes": "51.6",
-        "no": "48.4"
+        "yes": "52.4",
+        "no": "47.6"
       },
       "spread": {
         "saudi-arabia -1.5": "5.4",
         "uruguay +1.5": "94.6"
       },
       "half_time": {
-        "win_a": "15.7",
-        "draw": "41.9",
-        "win_b": "42.4"
+        "win_a": "15.5",
+        "draw": "42.6",
+        "win_b": "41.9"
       },
       "market_odds": null,
       "edge": {}

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-14T21:34:28.414410+00:00",
+  "updated_at": "2026-06-14T21:39:32.622618+00:00",
   "matches": [
     {
       "home": "netherlands",
       "away": "japan",
-      "hours_until": -1.6,
+      "hours_until": -1.7,
       "city": "Arlington, Texas",
       "venue": "AT&T Stadium",
       "home_score": 2,
@@ -64,7 +64,7 @@
     {
       "home": "sweden",
       "away": "tunisia",
-      "hours_until": 2.4,
+      "hours_until": 2.3,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "spain",
       "away": "cape-verde",
-      "hours_until": 2.4,
+      "hours_until": 2.3,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "belgium",
       "away": "egypt",
-      "hours_until": 2.4,
+      "hours_until": 2.3,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -244,7 +244,7 @@
     {
       "home": "saudi-arabia",
       "away": "uruguay",
-      "hours_until": 2.4,
+      "hours_until": 2.3,
       "city": "",
       "venue": "",
       "home_score": 0,

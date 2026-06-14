@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-14T01:58:09.722126+00:00",
+  "updated_at": "2026-06-14T02:03:40.870967+00:00",
   "matches": [
     {
       "home": "haiti",
       "away": "scotland",
-      "hours_until": -1.0,
+      "hours_until": -1.1,
       "city": "Foxborough, Massachusetts",
       "venue": "Gillette Stadium",
       "home_score": 0,
@@ -64,7 +64,7 @@
     {
       "home": "sweden",
       "away": "tunisia",
-      "hours_until": 22.0,
+      "hours_until": 21.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "spain",
       "away": "cape-verde",
-      "hours_until": 22.0,
+      "hours_until": 21.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "belgium",
       "away": "egypt",
-      "hours_until": 22.0,
+      "hours_until": 21.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -244,7 +244,7 @@
     {
       "home": "saudi-arabia",
       "away": "uruguay",
-      "hours_until": 22.0,
+      "hours_until": 21.9,
       "city": "",
       "venue": "",
       "home_score": 0,

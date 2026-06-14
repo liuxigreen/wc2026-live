@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-06-14T00:15:30.271140+00:00",
+  "updated_at": "2026-06-14T01:11:18.021659+00:00",
   "matches": [
     {
-      "home": "brazil",
-      "away": "morocco",
-      "hours_until": -2.3,
-      "city": "East Rutherford, New Jersey",
-      "venue": "MetLife Stadium",
-      "home_score": 1,
-      "away_score": 1,
+      "home": "haiti",
+      "away": "scotland",
+      "hours_until": -0.2,
+      "city": "Foxborough, Massachusetts",
+      "venue": "Gillette Stadium",
+      "home_score": 0,
+      "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "65.0",
-        "draw": "22.7",
-        "win_b": "12.3"
+        "win_a": "21.3",
+        "draw": "26.4",
+        "win_b": "52.3"
       },
       "xg": {
-        "a": "2.02",
-        "b": "0.79"
+        "a": "1.05",
+        "b": "1.75"
       },
       "elo": {
-        "a": 1994,
+        "a": 1481,
         "b": 10,
-        "diff": 1984
+        "diff": 1471
       },
       "top_scores": [
         [
-          "2-0",
-          "12.3"
-        ],
-        [
-          "1-0",
-          "11.0"
-        ],
-        [
           "1-1",
-          "10.8"
+          "12.6"
+        ],
+        [
+          "1-2",
+          "9.8"
+        ],
+        [
+          "0-2",
+          "9.3"
         ]
       ],
       "over_under": {
@@ -46,17 +46,17 @@
         }
       },
       "btts": {
-        "yes": "48.5",
-        "no": "51.5"
+        "yes": "55.3",
+        "no": "44.7"
       },
       "spread": {
-        "brazil -1.5": "41.4",
-        "morocco +1.5": "58.6"
+        "haiti -1.5": "8.4",
+        "scotland +1.5": "91.6"
       },
       "half_time": {
-        "win_a": "45.4",
-        "draw": "41.1",
-        "win_b": "13.4"
+        "win_a": "19.4",
+        "draw": "42.9",
+        "win_b": "37.7"
       },
       "market_odds": null,
       "edge": {}
@@ -64,7 +64,7 @@
     {
       "home": "sweden",
       "away": "tunisia",
-      "hours_until": 23.7,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "spain",
       "away": "cape-verde",
-      "hours_until": 23.7,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "belgium",
       "away": "egypt",
-      "hours_until": 23.7,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -244,7 +244,7 @@
     {
       "home": "saudi-arabia",
       "away": "uruguay",
-      "hours_until": 23.7,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,

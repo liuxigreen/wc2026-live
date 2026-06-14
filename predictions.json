@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T01:53:04.921555+00:00",
+  "updated_at": "2026-06-14T01:53:16.721126+00:00",
   "matches": [
     {
       "home": "haiti",
@@ -10,7 +10,7 @@
       "home_score": 0,
       "away_score": 1,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "money_line": {
         "win_a": "21.3",
         "draw": "26.4",

@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-14T17:55:17.337200+00:00",
+  "updated_at": "2026-06-14T18:00:21.207194+00:00",
   "matches": [
     {
       "home": "germany",
       "away": "curacao",
-      "hours_until": -0.9,
+      "hours_until": -1.0,
       "city": "Houston, Texas",
       "venue": "NRG Stadium",
-      "home_score": 2,
+      "home_score": 3,
       "away_score": 1,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "money_line": {
         "win_a": "92.7",
         "draw": "6.6",
@@ -64,7 +64,7 @@
     {
       "home": "sweden",
       "away": "tunisia",
-      "hours_until": 6.1,
+      "hours_until": 6.0,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "spain",
       "away": "cape-verde",
-      "hours_until": 6.1,
+      "hours_until": 6.0,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "belgium",
       "away": "egypt",
-      "hours_until": 6.1,
+      "hours_until": 6.0,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -244,7 +244,7 @@
     {
       "home": "saudi-arabia",
       "away": "uruguay",
-      "hours_until": 6.1,
+      "hours_until": 6.0,
       "city": "",
       "venue": "",
       "home_score": 0,

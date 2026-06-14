@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-06-14T19:02:00.689996+00:00",
+  "updated_at": "2026-06-14T20:10:31.473894+00:00",
   "matches": [
     {
-      "home": "germany",
-      "away": "curacao",
-      "hours_until": -2.0,
-      "city": "Houston, Texas",
-      "venue": "NRG Stadium",
-      "home_score": 7,
-      "away_score": 1,
+      "home": "netherlands",
+      "away": "japan",
+      "hours_until": -0.2,
+      "city": "Arlington, Texas",
+      "venue": "AT&T Stadium",
+      "home_score": 0,
+      "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "92.7",
-        "draw": "6.6",
-        "win_b": "0.7"
+        "win_a": "63.3",
+        "draw": "24.4",
+        "win_b": "12.3"
       },
       "xg": {
-        "a": "3.33",
-        "b": "0.25"
+        "a": "2.0",
+        "b": "0.81"
       },
       "elo": {
-        "a": 1927,
+        "a": 1942,
         "b": 10,
-        "diff": 1917
+        "diff": 1932
       },
       "top_scores": [
         [
-          "3-0",
-          "17.3"
-        ],
-        [
           "2-0",
-          "15.6"
+          "12.1"
         ],
         [
-          "4-0",
-          "14.4"
+          "1-1",
+          "11.7"
+        ],
+        [
+          "1-0",
+          "10.1"
         ]
       ],
       "over_under": {
         "2.5": {
-          "over": "69.2",
-          "under": "30.8"
+          "over": "53.2",
+          "under": "46.8"
         }
       },
       "btts": {
-        "yes": "21.8",
-        "no": "78.2"
+        "yes": "49.8",
+        "no": "50.2"
       },
       "spread": {
-        "germany -1.5": "79.3",
-        "curacao +1.5": "20.7"
+        "netherlands -1.5": "40.5",
+        "japan +1.5": "59.5"
       },
       "half_time": {
-        "win_a": "70.9",
-        "draw": "26.5",
-        "win_b": "2.6"
+        "win_a": "44.4",
+        "draw": "41.9",
+        "win_b": "13.7"
       },
       "market_odds": null,
       "edge": {}
@@ -64,7 +64,7 @@
     {
       "home": "sweden",
       "away": "tunisia",
-      "hours_until": 5.0,
+      "hours_until": 3.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "spain",
       "away": "cape-verde",
-      "hours_until": 5.0,
+      "hours_until": 3.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "belgium",
       "away": "egypt",
-      "hours_until": 5.0,
+      "hours_until": 3.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -244,7 +244,7 @@
     {
       "home": "saudi-arabia",
       "away": "uruguay",
-      "hours_until": 5.0,
+      "hours_until": 3.8,
       "city": "",
       "venue": "",
       "home_score": 0,

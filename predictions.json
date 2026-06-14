@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T20:51:04.723056+00:00",
+  "updated_at": "2026-06-14T20:56:56.002707+00:00",
   "matches": [
     {
       "home": "netherlands",
@@ -10,7 +10,7 @@
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "money_line": {
         "win_a": "63.3",
         "draw": "24.4",

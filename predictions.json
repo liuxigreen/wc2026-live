@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-14T23:59:43.941505+00:00",
+  "updated_at": "2026-06-15T00:04:48.045275+00:00",
   "matches": [
     {
       "home": "ivory-coast",
       "away": "ecuador",
-      "hours_until": -1.0,
+      "hours_until": -1.1,
       "city": "Philadelphia, Pennsylvania",
       "venue": "Lincoln Financial Field",
       "home_score": 0,
@@ -62,9 +62,9 @@
       "edge": {}
     },
     {
-      "home": "sweden",
-      "away": "tunisia",
-      "hours_until": 0.0,
+      "home": "iran",
+      "away": "new-zealand",
+      "hours_until": 23.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -72,151 +72,31 @@
       "state": "pre",
       "status": "Scheduled",
       "money_line": {
-        "win_a": "41.1",
-        "draw": "29.7",
-        "win_b": "29.2"
+        "win_a": "68.3",
+        "draw": "22.4",
+        "win_b": "9.4"
       },
       "xg": {
-        "a": "1.53",
-        "b": "1.27"
+        "a": "2.11",
+        "b": "0.7"
       },
       "elo": {
-        "a": 1640,
+        "a": 1733,
         "b": 10,
-        "diff": 1630
-      },
-      "top_scores": [
-        [
-          "1-1",
-          "14.1"
-        ],
-        [
-          "2-1",
-          "9.0"
-        ],
-        [
-          "0-0",
-          "8.4"
-        ]
-      ],
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
-      },
-      "btts": {
-        "yes": "58.8",
-        "no": "41.2"
-      },
-      "spread": {
-        "sweden -1.5": "21.6",
-        "tunisia +1.5": "78.4"
-      },
-      "half_time": {
-        "win_a": "31.2",
-        "draw": "44.3",
-        "win_b": "24.5"
-      },
-      "market_odds": null,
-      "edge": {}
-    },
-    {
-      "home": "spain",
-      "away": "cape-verde",
-      "hours_until": 0.0,
-      "city": "",
-      "venue": "",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "Scheduled",
-      "money_line": {
-        "win_a": "93.6",
-        "draw": "5.8",
-        "win_b": "0.6"
-      },
-      "xg": {
-        "a": "3.5",
-        "b": "0.25"
-      },
-      "elo": {
-        "a": 2074,
-        "b": 10,
-        "diff": 2064
-      },
-      "top_scores": [
-        [
-          "3-0",
-          "17.0"
-        ],
-        [
-          "4-0",
-          "14.9"
-        ],
-        [
-          "2-0",
-          "14.5"
-        ]
-      ],
-      "over_under": {
-        "2.5": {
-          "over": "72.0",
-          "under": "28.0"
-        }
-      },
-      "btts": {
-        "yes": "21.9",
-        "no": "78.1"
-      },
-      "spread": {
-        "spain -1.5": "81.5",
-        "cape-verde +1.5": "18.5"
-      },
-      "half_time": {
-        "win_a": "72.6",
-        "draw": "24.9",
-        "win_b": "2.5"
-      },
-      "market_odds": null,
-      "edge": {}
-    },
-    {
-      "home": "belgium",
-      "away": "egypt",
-      "hours_until": 0.0,
-      "city": "",
-      "venue": "",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "Scheduled",
-      "money_line": {
-        "win_a": "80.0",
-        "draw": "16.3",
-        "win_b": "3.7"
-      },
-      "xg": {
-        "a": "2.38",
-        "b": "0.42"
-      },
-      "elo": {
-        "a": 1871,
-        "b": 10,
-        "diff": 1861
+        "diff": 1723
       },
       "top_scores": [
         [
           "2-0",
-          "17.2"
-        ],
-        [
-          "3-0",
-          "13.6"
+          "13.4"
         ],
         [
           "1-0",
-          "13.2"
+          "10.9"
+        ],
+        [
+          "1-1",
+          "10.7"
         ]
       ],
       "over_under": {
@@ -226,25 +106,25 @@
         }
       },
       "btts": {
-        "yes": "32.6",
-        "no": "67.4"
+        "yes": "46.0",
+        "no": "54.0"
       },
       "spread": {
-        "belgium -1.5": "58.2",
-        "egypt +1.5": "41.8"
+        "iran -1.5": "45.3",
+        "new-zealand +1.5": "54.7"
       },
       "half_time": {
-        "win_a": "55.9",
-        "draw": "37.7",
-        "win_b": "6.4"
+        "win_a": "47.5",
+        "draw": "40.9",
+        "win_b": "11.5"
       },
       "market_odds": null,
       "edge": {}
     },
     {
-      "home": "saudi-arabia",
-      "away": "uruguay",
-      "hours_until": 0.0,
+      "home": "france",
+      "away": "senegal",
+      "hours_until": 23.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -252,31 +132,31 @@
       "state": "pre",
       "status": "Scheduled",
       "money_line": {
-        "win_a": "14.8",
-        "draw": "25.8",
-        "win_b": "59.4"
+        "win_a": "71.1",
+        "draw": "21.1",
+        "win_b": "7.8"
       },
       "xg": {
-        "a": "0.89",
-        "b": "1.92"
+        "a": "2.17",
+        "b": "0.64"
       },
       "elo": {
-        "a": 1619,
+        "a": 2040,
         "b": 10,
-        "diff": 1609
+        "diff": 2030
       },
       "top_scores": [
         [
-          "1-1",
-          "12.4"
+          "2-0",
+          "14.2"
         ],
         [
-          "0-2",
-          "11.1"
+          "1-0",
+          "11.4"
         ],
         [
-          "1-2",
-          "9.9"
+          "3-0",
+          "10.3"
         ]
       ],
       "over_under": {
@@ -286,17 +166,77 @@
         }
       },
       "btts": {
-        "yes": "52.4",
-        "no": "47.6"
+        "yes": "43.4",
+        "no": "56.6"
       },
       "spread": {
-        "saudi-arabia -1.5": "5.4",
-        "uruguay +1.5": "94.6"
+        "france -1.5": "48.2",
+        "senegal +1.5": "51.8"
       },
       "half_time": {
-        "win_a": "15.5",
-        "draw": "42.6",
-        "win_b": "41.9"
+        "win_a": "49.4",
+        "draw": "40.3",
+        "win_b": "10.3"
+      },
+      "market_odds": null,
+      "edge": {}
+    },
+    {
+      "home": "iraq",
+      "away": "norway",
+      "hours_until": 23.9,
+      "city": "",
+      "venue": "",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "Scheduled",
+      "money_line": {
+        "win_a": "22.9",
+        "draw": "28.7",
+        "win_b": "48.5"
+      },
+      "xg": {
+        "a": "1.12",
+        "b": "1.69"
+      },
+      "elo": {
+        "a": 1530,
+        "b": 10,
+        "diff": 1520
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "13.7"
+        ],
+        [
+          "1-2",
+          "9.6"
+        ],
+        [
+          "0-2",
+          "8.6"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "53.2",
+          "under": "46.8"
+        }
+      },
+      "btts": {
+        "yes": "57.1",
+        "no": "42.9"
+      },
+      "spread": {
+        "iraq -1.5": "9.7",
+        "norway +1.5": "90.3"
+      },
+      "half_time": {
+        "win_a": "20.7",
+        "draw": "43.8",
+        "win_b": "35.5"
       },
       "market_odds": null,
       "edge": {}

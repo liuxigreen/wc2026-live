@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-15T02:13:35.784926+00:00",
+  "updated_at": "2026-06-15T02:18:40.061884+00:00",
   "matches": [
     {
       "home": "sweden",
       "away": "tunisia",
-      "hours_until": -0.2,
+      "hours_until": -0.3,
       "city": "Guadalupe",
       "venue": "Estadio BBVA",
       "home_score": 1,
@@ -64,7 +64,7 @@
     {
       "home": "iran",
       "away": "new-zealand",
-      "hours_until": 21.8,
+      "hours_until": 21.7,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "france",
       "away": "senegal",
-      "hours_until": 21.8,
+      "hours_until": 21.7,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "iraq",
       "away": "norway",
-      "hours_until": 21.8,
+      "hours_until": 21.7,
       "city": "",
       "venue": "",
       "home_score": 0,

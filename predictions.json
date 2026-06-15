@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-06-15T01:05:52.100805+00:00",
+  "updated_at": "2026-06-15T02:08:31.590859+00:00",
   "matches": [
     {
-      "home": "ivory-coast",
-      "away": "ecuador",
-      "hours_until": -2.1,
-      "city": "Philadelphia, Pennsylvania",
-      "venue": "Lincoln Financial Field",
-      "home_score": 1,
+      "home": "sweden",
+      "away": "tunisia",
+      "hours_until": -0.1,
+      "city": "Guadalupe",
+      "venue": "Estadio BBVA",
+      "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "25.6",
-        "draw": "29.2",
-        "win_b": "45.2"
+        "win_a": "41.1",
+        "draw": "29.7",
+        "win_b": "29.2"
       },
       "xg": {
-        "a": "1.19",
-        "b": "1.62"
+        "a": "1.53",
+        "b": "1.27"
       },
       "elo": {
-        "a": 1706,
+        "a": 1640,
         "b": 10,
-        "diff": 1696
+        "diff": 1630
       },
       "top_scores": [
         [
           "1-1",
-          "13.9"
+          "14.1"
         ],
         [
-          "1-2",
-          "9.4"
+          "2-1",
+          "9.0"
         ],
         [
           "0-0",
@@ -46,17 +46,17 @@
         }
       },
       "btts": {
-        "yes": "58.1",
-        "no": "41.9"
+        "yes": "58.8",
+        "no": "41.2"
       },
       "spread": {
-        "ivory-coast -1.5": "11.3",
-        "ecuador +1.5": "88.7"
+        "sweden -1.5": "21.6",
+        "tunisia +1.5": "78.4"
       },
       "half_time": {
-        "win_a": "22.3",
-        "draw": "44.1",
-        "win_b": "33.6"
+        "win_a": "31.2",
+        "draw": "44.3",
+        "win_b": "24.5"
       },
       "market_odds": null,
       "edge": {}
@@ -64,7 +64,7 @@
     {
       "home": "iran",
       "away": "new-zealand",
-      "hours_until": 22.9,
+      "hours_until": 21.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "france",
       "away": "senegal",
-      "hours_until": 22.9,
+      "hours_until": 21.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "iraq",
       "away": "norway",
-      "hours_until": 22.9,
+      "hours_until": 21.9,
       "city": "",
       "venue": "",
       "home_score": 0,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T03:27:29.457016+00:00",
+  "updated_at": "2026-06-15T03:32:33.463905+00:00",
   "matches": [
     {
       "home": "sweden",
@@ -7,7 +7,7 @@
       "hours_until": -1.5,
       "city": "Guadalupe",
       "venue": "Estadio BBVA",
-      "home_score": 2,
+      "home_score": 3,
       "away_score": 1,
       "state": "in",
       "status": "STATUS_SECOND_HALF",

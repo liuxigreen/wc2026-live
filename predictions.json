@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-06-15T18:00:09.681659+00:00",
+  "updated_at": "2026-06-15T19:11:22.063168+00:00",
   "matches": [
     {
-      "home": "spain",
-      "away": "cape-verde",
-      "match_time": "2026-06-15T16:00Z",
-      "hours_until": -2.0,
-      "city": "Atlanta, Georgia",
-      "venue": "Mercedes-Benz Stadium",
+      "home": "belgium",
+      "away": "egypt",
+      "match_time": "2026-06-15T19:00Z",
+      "hours_until": -0.2,
+      "city": "Seattle, Washington",
+      "venue": "Lumen Field",
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "93.6",
-        "draw": "5.8",
-        "win_b": "0.6"
+        "win_a": "80.0",
+        "draw": "16.3",
+        "win_b": "3.7"
       },
       "xg": {
-        "a": "3.5",
-        "b": "0.25"
+        "a": "2.38",
+        "b": "0.42"
       },
       "elo": {
-        "a": 2074,
+        "a": 1871,
         "b": 10,
-        "diff": 2064
+        "diff": 1861
       },
       "top_scores": [
         [
-          "3-0",
-          "17.0"
-        ],
-        [
-          "4-0",
-          "14.9"
-        ],
-        [
           "2-0",
-          "14.5"
+          "17.2"
+        ],
+        [
+          "3-0",
+          "13.6"
+        ],
+        [
+          "1-0",
+          "13.2"
         ]
       ],
       "over_under": {
         "2.5": {
-          "over": "72.0",
-          "under": "28.0"
+          "over": "53.2",
+          "under": "46.8"
         }
       },
       "btts": {
-        "yes": "21.9",
-        "no": "78.1"
+        "yes": "32.6",
+        "no": "67.4"
       },
       "spread": {
-        "spain -1.5": "81.5",
-        "cape-verde +1.5": "18.5"
+        "belgium -1.5": "58.2",
+        "egypt +1.5": "41.8"
       },
       "half_time": {
-        "win_a": "72.6",
-        "draw": "24.9",
-        "win_b": "2.5"
+        "win_a": "55.9",
+        "draw": "37.7",
+        "win_b": "6.4"
       },
       "market_odds": null,
       "edge": {}
@@ -66,7 +66,7 @@
       "home": "iran",
       "away": "new-zealand",
       "match_time": "2026-06-16",
-      "hours_until": 6.0,
+      "hours_until": 4.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -127,7 +127,7 @@
       "home": "france",
       "away": "senegal",
       "match_time": "2026-06-16",
-      "hours_until": 6.0,
+      "hours_until": 4.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -188,7 +188,7 @@
       "home": "iraq",
       "away": "norway",
       "match_time": "2026-06-16",
-      "hours_until": 6.0,
+      "hours_until": 4.8,
       "city": "",
       "venue": "",
       "home_score": 0,

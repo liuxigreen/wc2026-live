@@ -1,303 +1,153 @@
 {
-  "updated_at": "2026-06-15 16:12 UTC",
+  "updated_at": "2026-06-15T16:16:39.152059+00:00",
   "matches": [
     {
-      "elo_raw": "Elo: 1871→1946 (rest+10 venue-10) vs 1671→1659 (rest+10 venue-10)",
-      "squad_quality": {
-        "a": 1.87,
-        "b": -0.3
+      "home": "spain",
+      "away": "cape-verde",
+      "match_time": "2026-06-15T16:00Z",
+      "hours_until": -0.3,
+      "city": "Atlanta, Georgia",
+      "venue": "Mercedes-Benz Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "in",
+      "status": "STATUS_FIRST_HALF",
+      "money_line": {
+        "win_a": "93.6",
+        "draw": "5.8",
+        "win_b": "0.6"
       },
       "xg": {
-        "a": "2.38",
-        "b": "0.42"
+        "a": "3.5",
+        "b": "0.25"
       },
-      "money_line": {
-        "win_a": "80.0",
-        "draw": "16.3",
-        "win_b": "3.7"
+      "elo": {
+        "a": 2074,
+        "b": 10,
+        "diff": 2064
       },
-      "half_time": {
-        "win_a": "55.9",
-        "draw": "37.7",
-        "win_b": "6.4"
-      },
-      "spread_raw": "让球      belgium -1.5: 58.2% | egypt +1.5: 41.8%",
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
-      },
-      "btts": {
-        "yes": "32.6",
-        "no": "67.4"
-      },
-      "clean_sheet_raw": "零封      belgium: 65.5%  egypt: 9.2%",
       "top_scores": [
         [
-          "2-0",
-          "17.2"
-        ],
-        [
           "3-0",
-          "13.6"
-        ],
-        [
-          "1-0",
-          "13.2"
+          "17.0"
         ],
         [
           "4-0",
-          "8.1"
+          "14.9"
         ],
         [
-          "1-1",
-          "7.3"
-        ],
-        [
-          "2-1",
-          "7.3"
+          "2-0",
+          "14.5"
         ]
       ],
-      "elo": {
-        "a": 1946,
-        "b": 1659,
-        "diff": 287
-      },
-      "home": "belgium",
-      "away": "egypt",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-15T19:00Z",
-      "hours_until": 2.8,
-      "venue": "Lumen Field",
-      "city": "Seattle, Washington",
-      "is_my_team": false,
-      "predict_fun": null,
-      "binance": null,
-      "ai": {
-        "verdict": "buy",
-        "pick": "主胜",
-        "summary": "直接压比利时胜。xG 2.38碾压埃及0.42，Elo差1861。市场隐含61.7%严重低估，模型80%。埃及依赖萨拉赫单点，比利时中场控制力强。买比利时胜性价比远高过买埃及。",
-        "model_vs_ai": "模型80%与AI判断一致。",
-        "edge": "+18.3%",
-        "confidence": "高",
-        "bets": [
-          {
-            "market": "胜负盘",
-            "pick": "比利时胜",
-            "odds": "1.62",
-            "reason": "模型80%vs市场61.7%，edge+18.3%"
-          },
-          {
-            "market": "比分",
-            "pick": "2-0",
-            "odds": "~6.0",
-            "reason": "最可能比分17.2%"
-          },
-          {
-            "market": "大小球",
-            "pick": "大2.5",
-            "odds": "~1.96",
-            "reason": "模型53.2%，比利时进攻火力充足"
-          }
-        ]
-      }
-    },
-    {
-      "elo_raw": "Elo: 1619→1585 (rest+10 venue-15) vs 1833→1827 (rest+10 venue-9)",
-      "squad_quality": {
-        "a": -0.73,
-        "b": -0.19
-      },
-      "xg": {
-        "a": "0.87",
-        "b": "1.93"
-      },
-      "money_line": {
-        "win_a": "14.3",
-        "draw": "25.5",
-        "win_b": "60.2"
-      },
-      "half_time": {
-        "win_a": "15.2",
-        "draw": "42.4",
-        "win_b": "42.4"
-      },
-      "spread_raw": "让球      saudi-arabia -1.5: 5.2% | uruguay +1.5: 94.8%",
       "over_under": {
         "2.5": {
-          "over": "53.2",
-          "under": "46.8"
+          "over": "72.0",
+          "under": "28.0"
         }
       },
       "btts": {
-        "yes": "51.9",
-        "no": "48.1"
+        "yes": "21.9",
+        "no": "78.1"
       },
-      "clean_sheet_raw": "零封      saudi-arabia: 14.5%  uruguay: 41.7%",
-      "top_scores": [
-        [
-          "1-1",
-          "12.2"
-        ],
-        [
-          "0-2",
-          "11.3"
-        ],
-        [
-          "1-2",
-          "9.9"
-        ],
-        [
-          "0-1",
-          "9.6"
-        ],
-        [
-          "0-0",
-          "8.1"
-        ],
-        [
-          "0-3",
-          "7.3"
-        ]
-      ],
-      "elo": {
-        "a": 1585,
-        "b": 1827,
-        "diff": -242
+      "spread": {
+        "spain -1.5": "81.5",
+        "cape-verde +1.5": "18.5"
       },
-      "home": "saudi-arabia",
-      "away": "uruguay",
+      "half_time": {
+        "win_a": "72.6",
+        "draw": "24.9",
+        "win_b": "2.5"
+      },
+      "market_odds": null,
+      "edge": {}
+    },
+    {
+      "home": "iran",
+      "away": "new-zealand",
+      "match_time": "2026-06-16",
+      "hours_until": 7.7,
+      "city": "",
+      "venue": "",
       "home_score": 0,
       "away_score": 0,
       "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-15T22:00Z",
-      "hours_until": 5.8,
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens, Florida",
-      "is_my_team": false,
-      "predict_fun": null,
-      "binance": null,
-      "ai": {
-        "verdict": "skip",
-        "summary": "乌拉圭客胜60%概率最高，但赔率已充分定价。沙特xG仅0.87，乌拉圭1.93。25%平局率不能忽视，无高置信选项。宁可错过也不乱推。",
-        "model_vs_ai": "模型合理。沙特2022有爆冷前科，乌拉圭老化但仍有实力。",
-        "edge": null
-      }
-    },
-    {
-      "elo_raw": "Elo: 1733→1757 (rest+10 venue+7) vs 1567→1560 (rest+10 venue+0)",
-      "squad_quality": {
-        "a": 0.18,
-        "b": -0.42
+      "status": "Scheduled",
+      "money_line": {
+        "win_a": "68.3",
+        "draw": "22.4",
+        "win_b": "9.4"
       },
       "xg": {
-        "a": "2.13",
-        "b": "0.68"
+        "a": "2.11",
+        "b": "0.7"
       },
-      "money_line": {
-        "win_a": "69.2",
-        "draw": "22.0",
-        "win_b": "8.9"
+      "elo": {
+        "a": 1733,
+        "b": 10,
+        "diff": 1723
       },
-      "half_time": {
-        "win_a": "48.1",
-        "draw": "40.7",
-        "win_b": "11.2"
-      },
-      "spread_raw": "让球      iran -1.5: 46.2% | new-zealand +1.5: 53.8%",
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
-      },
-      "btts": {
-        "yes": "45.2",
-        "no": "54.8"
-      },
-      "clean_sheet_raw": "零封      iran: 50.7%  new-zealand: 11.9%",
       "top_scores": [
         [
           "2-0",
-          "13.7"
+          "13.4"
         ],
         [
           "1-0",
-          "11.1"
+          "10.9"
         ],
         [
           "1-1",
-          "10.5"
-        ],
-        [
-          "3-0",
-          "9.7"
-        ],
-        [
-          "2-1",
-          "9.3"
-        ],
-        [
-          "0-0",
-          "7.8"
+          "10.7"
         ]
       ],
-      "elo": {
-        "a": 1757,
-        "b": 1560,
-        "diff": 197
+      "over_under": {
+        "2.5": {
+          "over": "53.2",
+          "under": "46.8"
+        }
       },
-      "home": "iran",
-      "away": "new-zealand",
+      "btts": {
+        "yes": "46.0",
+        "no": "54.0"
+      },
+      "spread": {
+        "iran -1.5": "45.3",
+        "new-zealand +1.5": "54.7"
+      },
+      "half_time": {
+        "win_a": "47.5",
+        "draw": "40.9",
+        "win_b": "11.5"
+      },
+      "market_odds": null,
+      "edge": {}
+    },
+    {
+      "home": "france",
+      "away": "senegal",
+      "match_time": "2026-06-16",
+      "hours_until": 7.7,
+      "city": "",
+      "venue": "",
       "home_score": 0,
       "away_score": 0,
       "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-16T01:00Z",
-      "hours_until": 8.8,
-      "venue": "SoFi Stadium",
-      "city": "Inglewood, California",
-      "is_my_team": false,
-      "predict_fun": null,
-      "binance": null
-    },
-    {
-      "elo_raw": "Elo: 2040→2065 (rest+10 venue-10) vs 1830→1852 (rest+10 venue-10)",
-      "squad_quality": {
-        "a": 0.62,
-        "b": 0.56
-      },
-      "xg": {
-        "a": "2.17",
-        "b": "0.64"
-      },
+      "status": "Scheduled",
       "money_line": {
         "win_a": "71.1",
         "draw": "21.1",
         "win_b": "7.8"
       },
-      "half_time": {
-        "win_a": "49.4",
-        "draw": "40.3",
-        "win_b": "10.3"
+      "xg": {
+        "a": "2.17",
+        "b": "0.64"
       },
-      "spread_raw": "让球      france -1.5: 48.2% | senegal +1.5: 51.8%",
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
+      "elo": {
+        "a": 2040,
+        "b": 10,
+        "diff": 2030
       },
-      "btts": {
-        "yes": "43.4",
-        "no": "56.6"
-      },
-      "clean_sheet_raw": "零封      france: 52.9%  senegal: 11.4%",
       "top_scores": [
         [
           "2-0",
@@ -310,74 +160,8 @@
         [
           "3-0",
           "10.3"
-        ],
-        [
-          "1-1",
-          "10.0"
-        ],
-        [
-          "2-1",
-          "9.1"
-        ],
-        [
-          "0-0",
-          "7.7"
         ]
       ],
-      "elo": {
-        "a": 2065,
-        "b": 1852,
-        "diff": 213
-      },
-      "home": "france",
-      "away": "senegal",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-16T19:00Z",
-      "hours_until": 26.8,
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford, New Jersey",
-      "is_my_team": true,
-      "predict_fun": [
-        {
-          "market": "比分",
-          "pick": "2-0",
-          "probability": 14.2,
-          "confidence": "低"
-        }
-      ],
-      "binance": [
-        {
-          "market": "比分",
-          "pick": "2-0",
-          "probability": 14.2,
-          "confidence": "低"
-        }
-      ]
-    },
-    {
-      "elo_raw": "Elo: 1530→1487 (rest+10 venue-10) vs 1620→1644 (rest+10 venue-10)",
-      "squad_quality": {
-        "a": -1.06,
-        "b": 0.6
-      },
-      "xg": {
-        "a": "1.12",
-        "b": "1.69"
-      },
-      "money_line": {
-        "win_a": "22.9",
-        "draw": "28.7",
-        "win_b": "48.5"
-      },
-      "half_time": {
-        "win_a": "20.7",
-        "draw": "43.8",
-        "win_b": "35.5"
-      },
-      "spread_raw": "让球      iraq -1.5: 9.7% | norway +1.5: 90.3%",
       "over_under": {
         "2.5": {
           "over": "53.2",
@@ -385,10 +169,46 @@
         }
       },
       "btts": {
-        "yes": "57.1",
-        "no": "42.9"
+        "yes": "43.4",
+        "no": "56.6"
       },
-      "clean_sheet_raw": "零封      iraq: 18.5%  norway: 32.7%",
+      "spread": {
+        "france -1.5": "48.2",
+        "senegal +1.5": "51.8"
+      },
+      "half_time": {
+        "win_a": "49.4",
+        "draw": "40.3",
+        "win_b": "10.3"
+      },
+      "market_odds": null,
+      "edge": {}
+    },
+    {
+      "home": "iraq",
+      "away": "norway",
+      "match_time": "2026-06-16",
+      "hours_until": 7.7,
+      "city": "",
+      "venue": "",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "Scheduled",
+      "money_line": {
+        "win_a": "22.9",
+        "draw": "28.7",
+        "win_b": "48.5"
+      },
+      "xg": {
+        "a": "1.12",
+        "b": "1.69"
+      },
+      "elo": {
+        "a": 1530,
+        "b": 10,
+        "diff": 1520
+      },
       "top_scores": [
         [
           "1-1",
@@ -401,175 +221,8 @@
         [
           "0-2",
           "8.6"
-        ],
-        [
-          "0-0",
-          "8.3"
-        ],
-        [
-          "0-1",
-          "7.9"
-        ],
-        [
-          "2-1",
-          "6.4"
         ]
       ],
-      "elo": {
-        "a": 1487,
-        "b": 1644,
-        "diff": -157
-      },
-      "home": "iraq",
-      "away": "norway",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-16T22:00Z",
-      "hours_until": 29.8,
-      "venue": "Gillette Stadium",
-      "city": "Foxborough, Massachusetts",
-      "is_my_team": false,
-      "predict_fun": null,
-      "binance": null
-    },
-    {
-      "elo_raw": "Elo: 2064→2151 (rest+10 venue-8) vs 1676→1661 (rest+10 venue-12)",
-      "squad_quality": {
-        "a": 2.12,
-        "b": -0.34
-      },
-      "xg": {
-        "a": "2.96",
-        "b": "0.25"
-      },
-      "money_line": {
-        "win_a": "90.2",
-        "draw": "8.8",
-        "win_b": "1.0"
-      },
-      "half_time": {
-        "win_a": "66.7",
-        "draw": "30.3",
-        "win_b": "3.0"
-      },
-      "spread_raw": "让球      argentina -1.5: 73.8% | algeria +1.5: 26.2%",
-      "over_under": {
-        "2.5": {
-          "over": "62.2",
-          "under": "37.8"
-        }
-      },
-      "btts": {
-        "yes": "21.6",
-        "no": "78.4"
-      },
-      "clean_sheet_raw": "零封      argentina: 77.9%  algeria: 5.2%",
-      "top_scores": [
-        [
-          "2-0",
-          "17.7"
-        ],
-        [
-          "3-0",
-          "17.5"
-        ],
-        [
-          "4-0",
-          "13.0"
-        ],
-        [
-          "1-0",
-          "11.4"
-        ],
-        [
-          "5-0",
-          "7.7"
-        ],
-        [
-          "0-0",
-          "4.6"
-        ]
-      ],
-      "elo": {
-        "a": 2151,
-        "b": 1661,
-        "diff": 490
-      },
-      "home": "argentina",
-      "away": "algeria",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-17T01:00Z",
-      "hours_until": 32.8,
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "city": "Kansas City, Missouri",
-      "is_my_team": true,
-      "predict_fun": [
-        {
-          "market": "胜负盘",
-          "pick": "主胜 (argentina)",
-          "probability": 90.2,
-          "confidence": "高"
-        },
-        {
-          "market": "双方进球",
-          "pick": "否",
-          "probability": 78.4,
-          "confidence": "高"
-        },
-        {
-          "market": "比分",
-          "pick": "2-0",
-          "probability": 17.7,
-          "confidence": "中"
-        }
-      ],
-      "binance": [
-        {
-          "market": "胜负盘",
-          "pick": "主胜 (argentina)",
-          "probability": 90.2,
-          "confidence": "高"
-        },
-        {
-          "market": "双方进球",
-          "pick": "否",
-          "probability": 78.4,
-          "confidence": "高"
-        },
-        {
-          "market": "比分",
-          "pick": "2-0",
-          "probability": 17.7,
-          "confidence": "中"
-        }
-      ]
-    },
-    {
-      "elo_raw": "Elo: 1720→1751 (rest+10 venue-10) vs 1515→1497 (rest+10 venue-10)",
-      "squad_quality": {
-        "a": 0.77,
-        "b": -0.46
-      },
-      "xg": {
-        "a": "2.29",
-        "b": "0.52"
-      },
-      "money_line": {
-        "win_a": "76.2",
-        "draw": "18.5",
-        "win_b": "5.3"
-      },
-      "half_time": {
-        "win_a": "53.1",
-        "draw": "38.9",
-        "win_b": "8.1"
-      },
-      "spread_raw": "让球      austria -1.5: 53.8% | jordan +1.5: 46.2%",
       "over_under": {
         "2.5": {
           "over": "53.2",
@@ -577,370 +230,20 @@
         }
       },
       "btts": {
-        "yes": "37.7",
-        "no": "62.3"
+        "yes": "57.1",
+        "no": "42.9"
       },
-      "clean_sheet_raw": "零封      austria: 59.6%  jordan: 10.1%",
-      "top_scores": [
-        [
-          "2-0",
-          "15.8"
-        ],
-        [
-          "1-0",
-          "12.4"
-        ],
-        [
-          "3-0",
-          "12.1"
-        ],
-        [
-          "1-1",
-          "8.6"
-        ],
-        [
-          "2-1",
-          "8.2"
-        ],
-        [
-          "0-0",
-          "7.5"
-        ]
-      ],
-      "elo": {
-        "a": 1751,
-        "b": 1497,
-        "diff": 254
-      },
-      "home": "austria",
-      "away": "jordan",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-17T04:00Z",
-      "hours_until": 35.8,
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara, California",
-      "is_my_team": false,
-      "predict_fun": null,
-      "binance": null
-    },
-    {
-      "elo_raw": "Elo: 1934→2022 (rest+10 venue-18) vs 1530→1495 (rest+10 venue-17)",
-      "squad_quality": {
-        "a": 2.41,
-        "b": -0.69
-      },
-      "xg": {
-        "a": "3.07",
-        "b": "0.25"
-      },
-      "money_line": {
-        "win_a": "91.0",
-        "draw": "8.1",
-        "win_b": "0.9"
+      "spread": {
+        "iraq -1.5": "9.7",
+        "norway +1.5": "90.3"
       },
       "half_time": {
-        "win_a": "67.9",
-        "draw": "29.1",
-        "win_b": "2.9"
+        "win_a": "20.7",
+        "draw": "43.8",
+        "win_b": "35.5"
       },
-      "spread_raw": "让球      portugal -1.5: 75.5% | dr-congo +1.5: 24.5%",
-      "over_under": {
-        "2.5": {
-          "over": "64.3",
-          "under": "35.7"
-        }
-      },
-      "btts": {
-        "yes": "21.6",
-        "no": "78.4"
-      },
-      "clean_sheet_raw": "零封      portugal: 77.9%  dr-congo: 4.7%",
-      "top_scores": [
-        [
-          "3-0",
-          "17.5"
-        ],
-        [
-          "2-0",
-          "17.1"
-        ],
-        [
-          "4-0",
-          "13.4"
-        ],
-        [
-          "1-0",
-          "10.6"
-        ],
-        [
-          "5-0",
-          "8.3"
-        ],
-        [
-          "3-1",
-          "4.4"
-        ]
-      ],
-      "elo": {
-        "a": 2022,
-        "b": 1495,
-        "diff": 527
-      },
-      "home": "portugal",
-      "away": "dr-congo",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-17T17:00Z",
-      "hours_until": 48.8,
-      "venue": "NRG Stadium",
-      "city": "Houston, Texas",
-      "is_my_team": false,
-      "predict_fun": null,
-      "binance": null
-    },
-    {
-      "elo_raw": "Elo: 1982→2024 (rest+10 venue-20) vs 1878→1915 (rest+10 venue-18)",
-      "squad_quality": {
-        "a": 1.29,
-        "b": 1.13
-      },
-      "xg": {
-        "a": "1.88",
-        "b": "0.93"
-      },
-      "money_line": {
-        "win_a": "57.4",
-        "draw": "26.4",
-        "win_b": "16.2"
-      },
-      "half_time": {
-        "win_a": "40.7",
-        "draw": "42.8",
-        "win_b": "16.4"
-      },
-      "spread_raw": "让球      england -1.5: 34.9% | croatia +1.5: 65.1%",
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
-      },
-      "btts": {
-        "yes": "53.4",
-        "no": "46.6"
-      },
-      "clean_sheet_raw": "零封      england: 39.4%  croatia: 15.3%",
-      "top_scores": [
-        [
-          "1-1",
-          "12.7"
-        ],
-        [
-          "2-0",
-          "10.6"
-        ],
-        [
-          "2-1",
-          "9.9"
-        ],
-        [
-          "1-0",
-          "9.2"
-        ],
-        [
-          "0-0",
-          "8.1"
-        ],
-        [
-          "3-0",
-          "6.6"
-        ]
-      ],
-      "elo": {
-        "a": 2024,
-        "b": 1915,
-        "diff": 109
-      },
-      "home": "england",
-      "away": "croatia",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-17T20:00Z",
-      "hours_until": 51.8,
-      "venue": "AT&T Stadium",
-      "city": "Arlington, Texas",
-      "is_my_team": true,
-      "predict_fun": [
-        {
-          "market": "比分",
-          "pick": "1-1",
-          "probability": 12.7,
-          "confidence": "低"
-        }
-      ],
-      "binance": null
-    },
-    {
-      "elo_raw": "Elo: 1630→1572 (rest+10 venue-10) vs 1582→1615 (rest+10 venue+0)",
-      "squad_quality": {
-        "a": -1.44,
-        "b": 0.58
-      },
-      "xg": {
-        "a": "1.44",
-        "b": "1.36"
-      },
-      "money_line": {
-        "win_a": "36.8",
-        "draw": "30.0",
-        "win_b": "33.3"
-      },
-      "half_time": {
-        "win_a": "28.8",
-        "draw": "44.4",
-        "win_b": "26.8"
-      },
-      "spread_raw": "让球      ghana -1.5: 18.5% | panama +1.5: 81.5%",
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
-      },
-      "btts": {
-        "yes": "59.2",
-        "no": "40.8"
-      },
-      "clean_sheet_raw": "零封      ghana: 25.5%  panama: 23.6%",
-      "top_scores": [
-        [
-          "1-1",
-          "14.3"
-        ],
-        [
-          "2-1",
-          "8.6"
-        ],
-        [
-          "0-0",
-          "8.4"
-        ],
-        [
-          "1-2",
-          "8.1"
-        ],
-        [
-          "1-0",
-          "6.3"
-        ],
-        [
-          "2-0",
-          "6.3"
-        ]
-      ],
-      "elo": {
-        "a": 1572,
-        "b": 1615,
-        "diff": -43
-      },
-      "home": "ghana",
-      "away": "panama",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-17T23:00Z",
-      "hours_until": 54.8,
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "is_my_team": false,
-      "predict_fun": null,
-      "binance": null
-    },
-    {
-      "elo_raw": "Elo: 1500→1491 (rest+10 venue+0) vs 1884→1912 (rest+10 venue+0)",
-      "squad_quality": {
-        "a": -0.48,
-        "b": 0.45
-      },
-      "xg": {
-        "a": "0.36",
-        "b": "2.45"
-      },
-      "money_line": {
-        "win_a": "2.8",
-        "draw": "14.8",
-        "win_b": "82.3"
-      },
-      "half_time": {
-        "win_a": "5.4",
-        "draw": "36.8",
-        "win_b": "57.8"
-      },
-      "spread_raw": "让球      uzbekistan -1.5: 0.6% | colombia +1.5: 99.4%",
-      "over_under": {
-        "2.5": {
-          "over": "53.2",
-          "under": "46.8"
-        }
-      },
-      "btts": {
-        "yes": "28.8",
-        "no": "71.2"
-      },
-      "clean_sheet_raw": "零封      uzbekistan: 8.7%  colombia: 69.7%",
-      "top_scores": [
-        [
-          "0-2",
-          "18.1"
-        ],
-        [
-          "0-3",
-          "14.7"
-        ],
-        [
-          "0-1",
-          "13.7"
-        ],
-        [
-          "0-4",
-          "9.0"
-        ],
-        [
-          "0-0",
-          "7.1"
-        ],
-        [
-          "1-2",
-          "6.5"
-        ]
-      ],
-      "elo": {
-        "a": 1491,
-        "b": 1912,
-        "diff": -421
-      },
-      "home": "uzbekistan",
-      "away": "colombia",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "pre",
-      "status": "STATUS_SCHEDULED",
-      "match_time": "2026-06-18T02:00Z",
-      "hours_until": 57.8,
-      "venue": "Estadio Banorte",
-      "city": "Mexico City",
-      "is_my_team": false,
-      "predict_fun": null,
-      "binance": null
+      "market_odds": null,
+      "edge": {}
     }
-  ],
-  "parlays": []
+  ]
 }

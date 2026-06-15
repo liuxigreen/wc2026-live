@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-15T01:00:37.398119+00:00",
+  "updated_at": "2026-06-15T01:05:52.100805+00:00",
   "matches": [
     {
       "home": "ivory-coast",
       "away": "ecuador",
-      "hours_until": -2.0,
+      "hours_until": -2.1,
       "city": "Philadelphia, Pennsylvania",
       "venue": "Lincoln Financial Field",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "state": "in",
       "status": "STATUS_SECOND_HALF",
@@ -64,7 +64,7 @@
     {
       "home": "iran",
       "away": "new-zealand",
-      "hours_until": 23.0,
+      "hours_until": 22.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -124,7 +124,7 @@
     {
       "home": "france",
       "away": "senegal",
-      "hours_until": 23.0,
+      "hours_until": 22.9,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -184,7 +184,7 @@
     {
       "home": "iraq",
       "away": "norway",
-      "hours_until": 23.0,
+      "hours_until": 22.9,
       "city": "",
       "venue": "",
       "home_score": 0,

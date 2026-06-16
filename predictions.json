@@ -1,42 +1,5 @@
 {
-  "updated_at": "2026-06-16 11:49 UTC",
+  "updated_at": "2026-06-16 11:51 UTC",
   "matches": [],
-  "parlays": [
-    {
-      "name": "🛡️ 保守串",
-      "target": "2.14x",
-      "picks": [
-        {
-          "match": "argentina-algeria",
-          "pick": "主胜",
-          "odds": "~1.46",
-          "reason": "xG碾压+Elo差490"
-        },
-        {
-          "match": "austria-jordan",
-          "pick": "主胜",
-          "odds": "~1.47",
-          "reason": "xG优势+主场"
-        }
-      ]
-    },
-    {
-      "name": "🔥 进攻串",
-      "target": "9.5x",
-      "picks": [
-        {
-          "match": "argentina-algeria",
-          "pick": "3-0",
-          "odds": "~6.5",
-          "reason": "最可能大胜比分"
-        },
-        {
-          "match": "austria-jordan",
-          "pick": "主胜",
-          "odds": "~1.47",
-          "reason": "稳胆搭配"
-        }
-      ]
-    }
-  ]
+  "parlays": []
 }

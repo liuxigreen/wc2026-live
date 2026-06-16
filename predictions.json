@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-16 23:40 UTC",
+  "updated_at": "2026-06-16 23:45 UTC",
   "matches": [
     {
       "home": "iraq",
       "away": "norway",
       "match_time": "2026-06-16T22:00Z",
-      "hours_until": -1.7,
+      "hours_until": -1.8,
       "city": "Foxborough, Massachusetts",
       "venue": "Gillette Stadium",
       "home_score": 1,
-      "away_score": 2,
+      "away_score": 3,
       "state": "in",
       "status": "STATUS_SECOND_HALF",
       "money_line": {

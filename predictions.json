@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16 20:51 UTC",
+  "updated_at": "2026-06-16 20:56 UTC",
   "matches": [
     {
       "home": "france",
@@ -8,10 +8,10 @@
       "hours_until": -1.9,
       "city": "East Rutherford, New Jersey",
       "venue": "MetLife Stadium",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_SECOND_HALF",
       "money_line": {
         "win_a": "57.4",
         "draw": "24.8",

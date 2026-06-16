@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-06-16T00:04:55.533355+00:00",
+  "updated_at": "2026-06-16T01:10:40.252690+00:00",
   "matches": [
     {
-      "home": "saudi-arabia",
-      "away": "uruguay",
-      "match_time": "2026-06-15T22:00Z",
-      "hours_until": -2.1,
-      "city": "Miami Gardens, Florida",
-      "venue": "Hard Rock Stadium",
-      "home_score": 1,
-      "away_score": 1,
+      "home": "iran",
+      "away": "new-zealand",
+      "match_time": "2026-06-16T01:00Z",
+      "hours_until": -0.2,
+      "city": "Inglewood, California",
+      "venue": "SoFi Stadium",
+      "home_score": 0,
+      "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "14.3",
-        "draw": "25.5",
-        "win_b": "60.2"
+        "win_a": "69.2",
+        "draw": "22.0",
+        "win_b": "8.9"
       },
       "xg": {
-        "a": "0.87",
-        "b": "1.93"
+        "a": "2.13",
+        "b": "0.68"
       },
       "elo": {
-        "a": 1619,
+        "a": 1733,
         "b": 10,
-        "diff": 1609
+        "diff": 1723
       },
       "top_scores": [
         [
+          "2-0",
+          "13.7"
+        ],
+        [
+          "1-0",
+          "11.1"
+        ],
+        [
           "1-1",
-          "12.2"
-        ],
-        [
-          "0-2",
-          "11.3"
-        ],
-        [
-          "1-2",
-          "9.9"
+          "10.5"
         ]
       ],
       "over_under": {
@@ -47,17 +47,17 @@
         }
       },
       "btts": {
-        "yes": "51.9",
-        "no": "48.1"
+        "yes": "45.2",
+        "no": "54.8"
       },
       "spread": {
-        "saudi-arabia -1.5": "5.2",
-        "uruguay +1.5": "94.8"
+        "iran -1.5": "46.2",
+        "new-zealand +1.5": "53.8"
       },
       "half_time": {
-        "win_a": "15.2",
-        "draw": "42.4",
-        "win_b": "42.4"
+        "win_a": "48.1",
+        "draw": "40.7",
+        "win_b": "11.2"
       },
       "market_odds": null,
       "edge": {}
@@ -66,7 +66,7 @@
       "home": "argentina",
       "away": "algeria",
       "match_time": "2026-06-17",
-      "hours_until": 23.9,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -127,7 +127,7 @@
       "home": "austria",
       "away": "jordan",
       "match_time": "2026-06-17",
-      "hours_until": 23.9,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -188,7 +188,7 @@
       "home": "portugal",
       "away": "dr-congo",
       "match_time": "2026-06-17",
-      "hours_until": 23.9,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -249,7 +249,7 @@
       "home": "england",
       "away": "croatia",
       "match_time": "2026-06-17",
-      "hours_until": 23.9,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,
@@ -310,7 +310,7 @@
       "home": "ghana",
       "away": "panama",
       "match_time": "2026-06-17",
-      "hours_until": 23.9,
+      "hours_until": 22.8,
       "city": "",
       "venue": "",
       "home_score": 0,

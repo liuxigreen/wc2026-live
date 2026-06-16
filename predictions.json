@@ -1,53 +1,46 @@
 {
-  "updated_at": "2026-06-17 01:48 UTC",
-  "live": true,
-  "matches": [
+  "updated_at": "2026-06-16 17:47 UTC",
+  "matches": [],
+  "parlays": [
     {
-      "home": "australia",
-      "away": "nigeria",
-      "home_score": 1,
-      "away_score": 1,
-      "match_time": "2026-06-16T23:00:00Z",
-      "status": "in",
-      "minute": 89,
-      "period": "2nd Half",
-      "money_line": {
-        "win_a": "24.3",
-        "draw": "28.5",
-        "win_b": "47.2"
-      },
-      "xg": {
-        "a": "0.72",
-        "b": "0.84"
-      },
-      "elo": {
-        "a": 1659,
-        "b": 1736,
-        "diff": -77
-      },
-      "over_under": {
-        "2.5": {
-          "over": "32.1",
-          "under": "67.9"
+      "name": "🛡️ 保守串",
+      "target": "3.9x",
+      "reason": "两场spread大热门，模型edge明确",
+      "odds": "3.9x",
+      "picks": [
+        {
+          "match": "argentina-algeria",
+          "pick": "阿根廷-1.25",
+          "odds": "@2.05",
+          "reason": "模型54.9% vs 市场48.8%，+14%edge"
+        },
+        {
+          "match": "portugal-dr-congo",
+          "pick": "葡萄牙-1.5",
+          "odds": "@1.91",
+          "reason": "模型57.8% vs 市场52.4%，+5.4%edge"
         }
-      },
-      "btts": {
-        "yes": "100.0",
-        "no": "0.0"
-      },
-      "spread": {
-        "australia +0.5": "52.8",
-        "nigeria -0.5": "47.2"
-      },
-      "top_scores": [
-        ["1-1", "100.0"]
-      ],
-      "market_odds": {
-        "home_odds": 3.40,
-        "draw_odds": 3.80,
-        "away_odds": 1.85
-      }
+      ]
+    },
+    {
+      "name": "🔥 进攻串",
+      "target": "14.9x",
+      "reason": "阿根廷spread稳底 + 伊拉克平局高赔搏冷",
+      "odds": "14.9x",
+      "picks": [
+        {
+          "match": "argentina-algeria",
+          "pick": "阿根廷-1.25",
+          "odds": "@2.05",
+          "reason": "模型54.9% vs 市场48.8%，+14%edge"
+        },
+        {
+          "match": "iraq-norway",
+          "pick": "平局",
+          "odds": "@7.25",
+          "reason": "ensemble 17.6% vs 市场13.8%，+3.8%edge"
+        }
+      ]
     }
-  ],
-  "parlays": []
+  ]
 }

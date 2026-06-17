@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-06-17 04:08 UTC",
-  "matches": [],
+  "updated_at": "2026-06-17 04:13 UTC",
+  "matches": [
+    {
+      "home": "austria",
+      "away": "jordan",
+      "match_time": "2026-06-17T04:00Z",
+      "hours_until": -0.2,
+      "city": "Santa Clara, California",
+      "venue": "Levi's Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "in",
+      "status": "STATUS_FIRST_HALF",
+      "money_line": {
+        "win_a": "60.7",
+        "draw": "23.8",
+        "win_b": "15.5"
+      },
+      "xg": {
+        "a": "1.9",
+        "b": "0.86"
+      },
+      "elo": {
+        "a": 1751,
+        "b": 1497,
+        "diff": 254
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "11.4"
+        ],
+        [
+          "2-0",
+          "11.4"
+        ],
+        [
+          "1-0",
+          "11.0"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.1",
+          "under": "47.9"
+        }
+      },
+      "btts": {
+        "yes": "50.2",
+        "no": "49.8"
+      },
+      "spread": {
+        "austria -1.5": "36.8",
+        "jordan +1.5": "63.2"
+      },
+      "half_time": {
+        "win_a": "42.6",
+        "draw": "42.0",
+        "win_b": "15.4"
+      },
+      "squad_quality": {
+        "a": 0.77,
+        "b": -0.46
+      },
+      "market_odds": null,
+      "ensemble": null,
+      "edge": {},
+      "ai": {
+        "verdict": "buy",
+        "pick": "平局",
+        "summary": "奥地利被市场高估（71.4% vs 综合67.2%），平局有+4% edge，约旦客胜+4.7%。直接压平局。",
+        "edge": "+4.0%",
+        "confidence": "中",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "平局",
+            "odds": "~5.05",
+            "reason": "综合20.7% vs 隐含19.8%，正edge"
+          },
+          {
+            "market": "大小球",
+            "pick": "大2.5",
+            "odds": "~1.87",
+            "reason": "xG合计2.76，略偏大"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "~1.95",
+            "reason": "模型50.2%，接近50-50"
+          },
+          {
+            "market": "比分",
+            "pick": "1-1",
+            "odds": "~6.5",
+            "reason": "最高概率比分11.4%"
+          }
+        ]
+      }
+    }
+  ],
   "parlays": [
     {
       "name": "🛡️ 保守串",

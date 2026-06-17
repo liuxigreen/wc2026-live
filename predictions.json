@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 05:54 UTC",
+  "updated_at": "2026-06-17 05:59 UTC",
   "matches": [
     {
       "home": "austria",
@@ -65,49 +65,41 @@
       },
       "market_odds": null,
       "ensemble": null,
-      "edge": {}
+      "edge": {},
+      "ai": {
+        "verdict": "skip",
+        "pick": "暂不推荐",
+        "summary": "奥地利vs约旦已进入下半场（2-1），无实时市场赔率，无法计算edge。比赛即将结束，不建议追单。",
+        "edge": "N/A",
+        "confidence": "低",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "主胜",
+            "odds": "N/A",
+            "reason": "奥地利2-1领先，大概率拿下，但无赔率无法算edge"
+          },
+          {
+            "market": "大小球",
+            "pick": "大2.5",
+            "odds": "N/A",
+            "reason": "已3球，大2.5已过，大3.5看约旦能否再进"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "N/A",
+            "reason": "双方均有进球，BTTS已过"
+          },
+          {
+            "market": "比分",
+            "pick": "2-1",
+            "odds": "N/A",
+            "reason": "当前比分，大概率维持到终场"
+          }
+        ]
+      }
     }
   ],
-  "parlays": [
-    {
-      "name": "🛡️ 保守串",
-      "target": "3-5x",
-      "picks": [
-        {
-          "match": "portugal-dr-congo",
-          "pick": "葡萄牙 -1.5",
-          "odds": "@1.94",
-          "reason": "模型edge +6.3%，最稳盘口"
-        },
-        {
-          "match": "ghana-panama",
-          "pick": "巴拿马 胜",
-          "odds": "@3.28",
-          "reason": "模型edge +4.5%，被低估的客队"
-        }
-      ],
-      "odds": "6.37x",
-      "reasoning": "葡萄牙让球+巴拿马客胜，两个高edge盘口组合"
-    },
-    {
-      "name": "🔥 进攻串",
-      "target": "8-15x",
-      "picks": [
-        {
-          "match": "ghana-panama",
-          "pick": "巴拿马 胜",
-          "odds": "@3.28",
-          "reason": "模型edge +4.5%"
-        },
-        {
-          "match": "czech-republic-south-africa",
-          "pick": "南非 胜",
-          "odds": "@4.70",
-          "reason": "模型edge +2.9%"
-        }
-      ],
-      "odds": "15.42x",
-      "reasoning": "两个被低估客队组合，高赔率高回报"
-    }
-  ]
+  "parlays": []
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 04:27 UTC",
+  "updated_at": "2026-06-17 04:32 UTC",
   "matches": [
     {
       "home": "austria",
@@ -8,10 +8,10 @@
       "hours_until": -0.5,
       "city": "Santa Clara, California",
       "venue": "Levi's Stadium",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "money_line": {
         "win_a": "60.7",
         "draw": "23.8",

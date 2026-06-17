@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-17 05:15 UTC",
+  "updated_at": "2026-06-17 05:22 UTC",
   "matches": [
     {
       "home": "austria",
       "away": "jordan",
       "match_time": "2026-06-17T04:00Z",
-      "hours_until": -1.3,
+      "hours_until": -1.4,
       "city": "Santa Clara, California",
       "venue": "Levi's Stadium",
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "state": "in",
       "status": "STATUS_SECOND_HALF",
       "money_line": {

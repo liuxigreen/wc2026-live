@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-17 02:58 UTC",
+  "updated_at": "2026-06-17 03:05 UTC",
   "matches": [
     {
       "home": "argentina",
       "away": "algeria",
       "match_time": "2026-06-17T01:00Z",
-      "hours_until": -2.0,
+      "hours_until": -2.1,
       "city": "Kansas City, Missouri",
       "venue": "GEHA Field at Arrowhead Stadium",
       "home_score": 3,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_SECOND_HALF",
       "money_line": {
         "win_a": "78.1",
         "draw": "16.6",

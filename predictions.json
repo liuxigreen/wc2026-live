@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18 00:26 UTC",
+  "updated_at": "2026-06-18 01:38 UTC",
   "matches": [
     {
       "home": "ghana",
@@ -65,47 +65,41 @@
       },
       "market_odds": null,
       "ensemble": null,
-      "edge": {}
+      "edge": {},
+      "ai": {
+        "verdict": "skip",
+        "pick": "无市场赔率",
+        "summary": "比赛已进入下半场（0-0），无Pinnacle赔率数据，无法计算ensemble edge。赛前模型显示势均力敌（加纳37% vs 巴拿马35%），但当前比分下建议观望。",
+        "edge": "N/A",
+        "confidence": "N/A",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "跳过",
+            "odds": "N/A",
+            "reason": "比赛中无赔率，0-0下半场形势不明"
+          },
+          {
+            "market": "大小球",
+            "pick": "跳过",
+            "odds": "N/A",
+            "reason": "下半场0-0，剩余进球不确定"
+          },
+          {
+            "market": "BTTS",
+            "pick": "跳过",
+            "odds": "N/A",
+            "reason": "无赔率，当前0-0"
+          },
+          {
+            "market": "比分",
+            "pick": "跳过",
+            "odds": "N/A",
+            "reason": "无赔率，无法计算价值"
+          }
+        ]
+      }
     }
   ],
-  "parlays": [
-    {
-      "name": "🛡️ 保守串",
-      "target": "3x",
-      "picks": [
-        {
-          "match": "usa-australia",
-          "pick": "客胜",
-          "odds": "~1.60",
-          "reason": "ensemble 49.5%主胜但模型强力支撑客胜"
-        },
-        {
-          "match": "czech-republic-south-africa",
-          "pick": "大2.25",
-          "odds": "~1.88",
-          "reason": "xG 2.76，两队都有进球需求"
-        }
-      ],
-      "total_odds": "~3.0x"
-    },
-    {
-      "name": "🔥 进攻串",
-      "target": "32x",
-      "picks": [
-        {
-          "match": "canada-qatar",
-          "pick": "平局",
-          "odds": "~6.07",
-          "reason": "模型27% vs 隐含16.5%，+10.5% edge"
-        },
-        {
-          "match": "scotland-morocco",
-          "pick": "主胜",
-          "odds": "~5.3",
-          "reason": "模型27.2% vs 隐含18.9%，+8.3% edge"
-        }
-      ],
-      "total_odds": "~32.2x"
-    }
-  ]
+  "parlays": []
 }

@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-06-18 19:03 UTC",
-  "matches": [],
+  "updated_at": "2026-06-18 19:08 UTC",
+  "matches": [
+    {
+      "home": "switzerland",
+      "away": "bosnia-and-herzegovina",
+      "match_time": "2026-06-18T19:00Z",
+      "hours_until": -0.1,
+      "city": "Inglewood, California",
+      "venue": "SoFi Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "in",
+      "status": "STATUS_FIRST_HALF",
+      "money_line": {
+        "win_a": "56.8",
+        "draw": "25.0",
+        "win_b": "18.2"
+      },
+      "xg": {
+        "a": "1.82",
+        "b": "0.94"
+      },
+      "elo": {
+        "a": 1751,
+        "b": 1545,
+        "diff": 206
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "11.9"
+        ],
+        [
+          "2-0",
+          "10.4"
+        ],
+        [
+          "1-0",
+          "10.4"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "52.3",
+        "no": "47.7"
+      },
+      "spread": {
+        "switzerland -1.5": "33.3",
+        "bosnia-and-herzegovina +1.5": "66.7"
+      },
+      "half_time": {
+        "win_a": "40.2",
+        "draw": "42.5",
+        "win_b": "17.2"
+      },
+      "squad_quality": {
+        "a": 0.71,
+        "b": -1.28
+      },
+      "market_odds": null,
+      "ensemble": null,
+      "edge": {}
+    }
+  ],
   "parlays": [
     {
       "name": "🛡️ 保守串",

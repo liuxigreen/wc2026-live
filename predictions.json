@@ -1,6 +1,866 @@
 {
-  "updated_at": "2026-06-18 12:04 UTC",
-  "matches": [],
+  "updated_at": "2026-06-18 12:09 UTC",
+  "matches": [
+    {
+      "home": "czech-republic",
+      "away": "south-africa",
+      "match_time": "2026-06-18T16:00Z",
+      "hours_until": 3.8,
+      "city": "Atlanta, Georgia",
+      "venue": "Mercedes-Benz Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "STATUS_SCHEDULED",
+      "money_line": {
+        "win_a": "47.5",
+        "draw": "27.0",
+        "win_b": "25.6"
+      },
+      "xg": {
+        "a": "1.62",
+        "b": "1.14"
+      },
+      "elo": {
+        "a": 1564,
+        "b": 1475,
+        "diff": 89
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "12.8"
+        ],
+        [
+          "2-1",
+          "9.5"
+        ],
+        [
+          "1-0",
+          "9.1"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "55.7",
+        "no": "44.3"
+      },
+      "spread": {
+        "czech-republic -1.5": "25.5",
+        "south-africa +1.5": "74.5"
+      },
+      "half_time": {
+        "win_a": "34.7",
+        "draw": "43.4",
+        "win_b": "21.9"
+      },
+      "squad_quality": {
+        "a": -0.54,
+        "b": -1.98
+      },
+      "market_odds": {
+        "source": "pinnacle",
+        "time": "2026-06-18T16:00:00Z",
+        "home_odds": 1.85,
+        "home_implied": 54.1,
+        "away_odds": 4.77,
+        "away_implied": 21.0,
+        "draw_odds": 3.63,
+        "draw_implied": 27.5,
+        "fav_spread": -0.5,
+        "fav_odds": 1.85,
+        "dog_spread": 0.5,
+        "dog_odds": 2.08,
+        "over_odds": 1.94,
+        "over_point": 2.25,
+        "under_odds": 1.96
+      },
+      "ensemble": {
+        "win_a": 51.2,
+        "draw": 26.9,
+        "win_b": 22.0,
+        "source": "ensemble"
+      },
+      "edge": {
+        "home": {
+          "model_pct": 47.5,
+          "market_odds": 1.85,
+          "market_implied": 54.1,
+          "edge": -6.6,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "draw": {
+          "model_pct": 27.0,
+          "market_odds": 3.63,
+          "market_implied": 27.5,
+          "edge": -0.5,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "away": {
+          "model_pct": 25.6,
+          "market_odds": 4.77,
+          "market_implied": 21.0,
+          "edge": 4.6,
+          "kelly_full": 5.9,
+          "kelly_quarter": 1.5,
+          "has_edge": true
+        },
+        "over": {
+          "market_odds": 1.94,
+          "point": 2.25
+        }
+      },
+      "ai": {
+        "verdict": "buy",
+        "pick": "大2.25",
+        "summary": "xG 2.76，模型估算大2.25概率64% vs 市场52%，+12% edge",
+        "edge": "+12.4%",
+        "confidence": "高",
+        "bets": [
+          {
+            "market": "大小球",
+            "pick": "大2.25",
+            "odds": "~1.93",
+            "reason": "xG 2.76，over 2.25估算64% vs 市场隐含52%"
+          },
+          {
+            "market": "胜负盘",
+            "pick": "南非不败（客胜+平局）",
+            "odds": "~2.0",
+            "reason": "ensemble客胜22.2%+平局27%=49.2%，接近50/50"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "~1.80",
+            "reason": "模型55.7%，两队xG均衡1.62-1.14"
+          },
+          {
+            "market": "比分",
+            "pick": "1-1",
+            "odds": "~6.5",
+            "reason": "最可能比分12.8%，实力最接近的一场"
+          }
+        ]
+      }
+    },
+    {
+      "home": "switzerland",
+      "away": "bosnia-and-herzegovina",
+      "match_time": "2026-06-18T19:00Z",
+      "hours_until": 6.8,
+      "city": "Inglewood, California",
+      "venue": "SoFi Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "STATUS_SCHEDULED",
+      "money_line": {
+        "win_a": "56.8",
+        "draw": "25.0",
+        "win_b": "18.2"
+      },
+      "xg": {
+        "a": "1.82",
+        "b": "0.94"
+      },
+      "elo": {
+        "a": 1751,
+        "b": 1545,
+        "diff": 206
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "11.9"
+        ],
+        [
+          "2-0",
+          "10.4"
+        ],
+        [
+          "1-0",
+          "10.4"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "52.3",
+        "no": "47.7"
+      },
+      "spread": {
+        "switzerland -1.5": "33.3",
+        "bosnia-and-herzegovina +1.5": "66.7"
+      },
+      "half_time": {
+        "win_a": "40.2",
+        "draw": "42.5",
+        "win_b": "17.2"
+      },
+      "squad_quality": {
+        "a": 0.71,
+        "b": -1.28
+      },
+      "market_odds": null,
+      "ensemble": null,
+      "edge": {},
+      "ai": {
+        "verdict": "skip",
+        "pick": "无市场赔率",
+        "summary": "无Pinnacle数据，无法计算真实edge。模型倾向瑞士56.8%，Elo差206",
+        "edge": "N/A",
+        "confidence": "低",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "瑞士主胜",
+            "odds": "N/A",
+            "reason": "Elo差206，模型56.8%，但无市场赔率"
+          },
+          {
+            "market": "大小球",
+            "pick": "大2.5",
+            "odds": "N/A",
+            "reason": "xG 2.76，模型52.2%"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "N/A",
+            "reason": "模型52.3%，波黑有反击能力"
+          },
+          {
+            "market": "比分",
+            "pick": "2-0",
+            "odds": "N/A",
+            "reason": "最可能比分10.4%，瑞士xG优势1.82-0.94"
+          }
+        ]
+      }
+    },
+    {
+      "home": "canada",
+      "away": "qatar",
+      "match_time": "2026-06-18T22:00Z",
+      "hours_until": 9.8,
+      "city": "Vancouver",
+      "venue": "BC Place",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "STATUS_SCHEDULED",
+      "money_line": {
+        "win_a": "46.9",
+        "draw": "27.0",
+        "win_b": "26.0"
+      },
+      "xg": {
+        "a": "1.61",
+        "b": "1.15"
+      },
+      "elo": {
+        "a": 1749,
+        "b": 1666,
+        "diff": 83
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "12.9"
+        ],
+        [
+          "2-1",
+          "9.4"
+        ],
+        [
+          "1-0",
+          "9.0"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "55.9",
+        "no": "44.1"
+      },
+      "spread": {
+        "canada -1.5": "25.1",
+        "qatar +1.5": "74.9"
+      },
+      "half_time": {
+        "win_a": "34.4",
+        "draw": "43.5",
+        "win_b": "22.2"
+      },
+      "squad_quality": {
+        "a": 0.09,
+        "b": 0.82
+      },
+      "market_odds": {
+        "source": "pinnacle",
+        "time": "2026-06-18T22:00:00Z",
+        "home_odds": 1.3,
+        "home_implied": 76.9,
+        "away_odds": 12.5,
+        "away_implied": 8.0,
+        "draw_odds": 5.85,
+        "draw_implied": 17.1,
+        "fav_spread": -1.5,
+        "fav_odds": 1.91,
+        "dog_spread": 1.5,
+        "dog_odds": 2.02,
+        "over_odds": 1.89,
+        "over_point": 2.75,
+        "under_odds": 2.02
+      },
+      "ensemble": {
+        "win_a": 67.0,
+        "draw": 19.8,
+        "win_b": 13.2,
+        "source": "ensemble"
+      },
+      "edge": {
+        "home": {
+          "model_pct": 46.9,
+          "market_odds": 1.3,
+          "market_implied": 76.9,
+          "edge": -30.0,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "draw": {
+          "model_pct": 27.0,
+          "market_odds": 5.85,
+          "market_implied": 17.1,
+          "edge": 9.9,
+          "kelly_full": 11.9,
+          "kelly_quarter": 3.0,
+          "has_edge": true
+        },
+        "away": {
+          "model_pct": 26.0,
+          "market_odds": 12.5,
+          "market_implied": 8.0,
+          "edge": 18.0,
+          "kelly_full": 19.6,
+          "kelly_quarter": 4.9,
+          "has_edge": true
+        },
+        "over": {
+          "market_odds": 1.89,
+          "point": 2.75
+        }
+      },
+      "ai": {
+        "verdict": "buy",
+        "pick": "小2.75",
+        "summary": "模型与市场严重分歧！模型47-27-26 vs 市场77-17-8。小2.75估算59% vs 市场51%，+7.5% edge",
+        "edge": "+7.5%",
+        "confidence": "中",
+        "bets": [
+          {
+            "market": "大小球",
+            "pick": "小2.75",
+            "odds": "~1.95",
+            "reason": "xG 2.76，小2.75估算59% vs 市场隐含51%"
+          },
+          {
+            "market": "胜负盘",
+            "pick": "平局",
+            "odds": "~5.85",
+            "reason": "ensemble 19.8% vs 市场17.1%，+2.7% edge"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "~1.75",
+            "reason": "模型55.9%，卡塔尔xG 1.15非软柿子"
+          },
+          {
+            "market": "比分",
+            "pick": "1-1",
+            "odds": "~7.0",
+            "reason": "最可能比分12.9%，模型认为实力接近"
+          }
+        ]
+      }
+    },
+    {
+      "home": "usa",
+      "away": "australia",
+      "match_time": "2026-06-19",
+      "hours_until": 11.8,
+      "city": "",
+      "venue": "",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "Scheduled",
+      "money_line": {
+        "win_a": "23.4",
+        "draw": "26.5",
+        "win_b": "50.1"
+      },
+      "xg": {
+        "a": "1.08",
+        "b": "1.68"
+      },
+      "elo": {
+        "a": 1844,
+        "b": 2079,
+        "diff": -235
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "12.6"
+        ],
+        [
+          "1-2",
+          "9.6"
+        ],
+        [
+          "0-1",
+          "9.4"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "55.0",
+        "no": "45.0"
+      },
+      "spread": {
+        "usa -1.5": "9.3",
+        "australia +1.5": "90.7"
+      },
+      "half_time": {
+        "win_a": "20.5",
+        "draw": "43.2",
+        "win_b": "36.2"
+      },
+      "squad_quality": {
+        "a": 0.0,
+        "b": -1.09
+      },
+      "market_odds": {
+        "source": "pinnacle",
+        "time": "2026-06-19T19:00:00Z",
+        "away_odds": 5.27,
+        "away_implied": 19.0,
+        "home_odds": 1.6,
+        "home_implied": 62.5,
+        "draw_odds": 4.5,
+        "draw_implied": 22.2,
+        "dog_spread": 1.0,
+        "dog_odds": 1.83,
+        "fav_spread": -1.0,
+        "fav_odds": 2.1,
+        "over_odds": 1.99,
+        "over_point": 2.5,
+        "under_odds": 1.9
+      },
+      "ensemble": {
+        "win_a": 49.5,
+        "draw": 22.9,
+        "win_b": 27.6,
+        "source": "ensemble"
+      },
+      "edge": {
+        "home": {
+          "model_pct": 23.4,
+          "market_odds": 1.6,
+          "market_implied": 62.5,
+          "edge": -39.1,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "draw": {
+          "model_pct": 26.5,
+          "market_odds": 4.5,
+          "market_implied": 22.2,
+          "edge": 4.3,
+          "kelly_full": 5.5,
+          "kelly_quarter": 1.4,
+          "has_edge": true
+        },
+        "away": {
+          "model_pct": 50.1,
+          "market_odds": 5.27,
+          "market_implied": 19.0,
+          "edge": 31.1,
+          "kelly_full": 38.4,
+          "kelly_quarter": 9.6,
+          "has_edge": true
+        },
+        "over": {
+          "market_odds": 1.99,
+          "point": 2.5
+        }
+      },
+      "ai": {
+        "verdict": "buy",
+        "pick": "澳大利亚客胜",
+        "summary": "本批最大分歧！模型看好澳50.1% vs 美23.4%，市场反过来。ensemble澳27.6% vs 市场19%，+8.6% edge",
+        "edge": "+8.6%",
+        "confidence": "高",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "澳大利亚客胜",
+            "odds": "~5.27",
+            "reason": "ensemble 27.6% vs 市场19%，+8.6% edge，xG 1.68>1.08"
+          },
+          {
+            "market": "大小球",
+            "pick": "大2.5",
+            "odds": "~1.99",
+            "reason": "xG 2.76，模型52.2% vs 市场50.3%"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "~1.80",
+            "reason": "模型55.0%，美国主场有进球能力"
+          },
+          {
+            "market": "比分",
+            "pick": "1-2",
+            "odds": "~11.0",
+            "reason": "第二可能比分9.6%，澳大利亚逆转"
+          }
+        ]
+      }
+    },
+    {
+      "home": "scotland",
+      "away": "morocco",
+      "match_time": "2026-06-19",
+      "hours_until": 11.8,
+      "city": "",
+      "venue": "",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "Scheduled",
+      "money_line": {
+        "win_a": "27.2",
+        "draw": "27.2",
+        "win_b": "45.6"
+      },
+      "xg": {
+        "a": "1.18",
+        "b": "1.58"
+      },
+      "elo": {
+        "a": 1790,
+        "b": 1968,
+        "diff": -178
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "13.0"
+        ],
+        [
+          "1-2",
+          "9.3"
+        ],
+        [
+          "0-1",
+          "8.8"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "56.2",
+        "no": "43.8"
+      },
+      "spread": {
+        "scotland -1.5": "11.5",
+        "morocco +1.5": "88.5"
+      },
+      "half_time": {
+        "win_a": "22.9",
+        "draw": "43.5",
+        "win_b": "33.6"
+      },
+      "squad_quality": {
+        "a": 0.16,
+        "b": -0.12
+      },
+      "market_odds": {
+        "source": "pinnacle",
+        "time": "2026-06-19T22:00:00Z",
+        "away_odds": 1.72,
+        "away_implied": 58.1,
+        "home_odds": 5.41,
+        "home_implied": 18.5,
+        "draw_odds": 3.7,
+        "draw_implied": 27.0,
+        "fav_spread": -0.75,
+        "fav_odds": 1.97,
+        "dog_spread": 0.75,
+        "dog_odds": 1.93,
+        "over_odds": 2.03,
+        "over_point": 2.25,
+        "under_odds": 1.86
+      },
+      "ensemble": {
+        "win_a": 20.6,
+        "draw": 26.4,
+        "win_b": 53.0,
+        "source": "ensemble"
+      },
+      "edge": {
+        "home": {
+          "model_pct": 27.2,
+          "market_odds": 5.41,
+          "market_implied": 18.5,
+          "edge": 8.7,
+          "kelly_full": 10.7,
+          "kelly_quarter": 2.7,
+          "has_edge": true
+        },
+        "draw": {
+          "model_pct": 27.2,
+          "market_odds": 3.7,
+          "market_implied": 27.0,
+          "edge": 0.2,
+          "kelly_full": 0.2,
+          "kelly_quarter": 0.1,
+          "has_edge": false
+        },
+        "away": {
+          "model_pct": 45.6,
+          "market_odds": 1.72,
+          "market_implied": 58.1,
+          "edge": -12.5,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "over": {
+          "market_odds": 2.03,
+          "point": 2.25
+        }
+      },
+      "ai": {
+        "verdict": "buy",
+        "pick": "大2.25",
+        "summary": "xG 2.76，大2.25估算64% vs 市场49%，+15% edge。摩洛哥热门但苏格兰有冷门潜力",
+        "edge": "+14.9%",
+        "confidence": "高",
+        "bets": [
+          {
+            "market": "大小球",
+            "pick": "大2.25",
+            "odds": "~2.03",
+            "reason": "xG 2.76，over 2.25估算64% vs 市场隐含49%"
+          },
+          {
+            "market": "胜负盘",
+            "pick": "苏格兰主胜",
+            "odds": "~5.41",
+            "reason": "ensemble 20.6% vs 市场18.5%，+2.1%冷门edge"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "~1.75",
+            "reason": "模型56.2%最高BTTS率，两队都能进"
+          },
+          {
+            "market": "比分",
+            "pick": "1-1",
+            "odds": "~6.5",
+            "reason": "最可能比分13.0%，全场最高"
+          }
+        ]
+      }
+    },
+    {
+      "home": "mexico",
+      "away": "south-korea",
+      "match_time": "2026-06-19T01:00Z",
+      "hours_until": 12.8,
+      "city": "Guadalajara",
+      "venue": "Estadio Akron",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "STATUS_SCHEDULED",
+      "money_line": {
+        "win_a": "54.5",
+        "draw": "25.6",
+        "win_b": "20.0"
+      },
+      "xg": {
+        "a": "1.77",
+        "b": "0.99"
+      },
+      "elo": {
+        "a": 1930,
+        "b": 1753,
+        "diff": 177
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "12.2"
+        ],
+        [
+          "1-0",
+          "10.1"
+        ],
+        [
+          "2-0",
+          "9.9"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "53.3",
+        "no": "46.7"
+      },
+      "spread": {
+        "mexico -1.5": "31.3",
+        "south-korea +1.5": "68.7"
+      },
+      "half_time": {
+        "win_a": "38.8",
+        "draw": "42.8",
+        "win_b": "18.4"
+      },
+      "squad_quality": {
+        "a": 0.32,
+        "b": 0.23
+      },
+      "market_odds": {
+        "source": "pinnacle",
+        "time": "2026-06-19T01:00:00Z",
+        "home_odds": 2.11,
+        "home_implied": 47.4,
+        "away_odds": 3.99,
+        "away_implied": 25.1,
+        "draw_odds": 3.35,
+        "draw_implied": 29.9,
+        "fav_spread": -0.5,
+        "fav_odds": 2.11,
+        "dog_spread": 0.5,
+        "dog_odds": 1.83,
+        "over_odds": 2.01,
+        "over_point": 2.25,
+        "under_odds": 1.9
+      },
+      "ensemble": {
+        "win_a": 48.7,
+        "draw": 28.1,
+        "win_b": 23.2,
+        "source": "ensemble"
+      },
+      "edge": {
+        "home": {
+          "model_pct": 54.5,
+          "market_odds": 2.11,
+          "market_implied": 47.4,
+          "edge": 7.1,
+          "kelly_full": 13.5,
+          "kelly_quarter": 3.4,
+          "has_edge": true
+        },
+        "draw": {
+          "model_pct": 25.6,
+          "market_odds": 3.35,
+          "market_implied": 29.9,
+          "edge": -4.3,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "away": {
+          "model_pct": 20.0,
+          "market_odds": 3.99,
+          "market_implied": 25.1,
+          "edge": -5.1,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "over": {
+          "market_odds": 2.01,
+          "point": 2.25
+        }
+      },
+      "ai": {
+        "verdict": "buy",
+        "pick": "大2.25",
+        "summary": "xG 2.76，大2.25估算64% vs 市场50%，+14% edge。墨西哥ensemble主胜48.6%略占优",
+        "edge": "+14.5%",
+        "confidence": "高",
+        "bets": [
+          {
+            "market": "大小球",
+            "pick": "大2.25",
+            "odds": "~2.01",
+            "reason": "xG 2.76，over 2.25估算64% vs 市场隐含50%"
+          },
+          {
+            "market": "胜负盘",
+            "pick": "墨西哥主胜",
+            "odds": "~2.12",
+            "reason": "ensemble 48.6% vs 市场47.2%，+1.4% edge"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "~1.85",
+            "reason": "模型53.3%，韩国xG 0.99能进一个"
+          },
+          {
+            "market": "比分",
+            "pick": "2-1",
+            "odds": "~9.0",
+            "reason": "墨西哥xG 1.77，最可能赢球比分"
+          }
+        ]
+      }
+    }
+  ],
   "parlays": [
     {
       "name": "🛡️ 保守串（目标4x）",

@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-06-17 17:06 UTC",
-  "matches": [],
+  "updated_at": "2026-06-18 00:04 UTC",
+  "matches": [
+    {
+      "home": "ghana",
+      "away": "panama",
+      "match_time": "2026-06-17T23:00Z",
+      "hours_until": -1.1,
+      "city": "Toronto",
+      "venue": "BMO Field",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "in",
+      "status": "STATUS_FIRST_HALF",
+      "money_line": {
+        "win_a": "37.1",
+        "draw": "27.9",
+        "win_b": "35.0"
+      },
+      "xg": {
+        "a": "1.4",
+        "b": "1.36"
+      },
+      "elo": {
+        "a": 1572,
+        "b": 1615,
+        "diff": -43
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "13.2"
+        ],
+        [
+          "2-1",
+          "8.5"
+        ],
+        [
+          "1-2",
+          "8.2"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "57.3",
+        "no": "42.7"
+      },
+      "spread": {
+        "ghana -1.5": "17.8",
+        "panama +1.5": "82.2"
+      },
+      "half_time": {
+        "win_a": "28.7",
+        "draw": "43.8",
+        "win_b": "27.5"
+      },
+      "squad_quality": {
+        "a": -1.44,
+        "b": 0.58
+      },
+      "market_odds": null,
+      "ensemble": null,
+      "edge": {},
+      "ai": {
+        "verdict": "buy",
+        "pick": "客胜",
+        "summary": "巴拿马被低估，ensemble 31.5% vs 市场30.2%，模型给35%有+4.8% edge",
+        "edge": "+4.8%",
+        "confidence": "中",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "客胜",
+            "odds": "3.31",
+            "reason": "模型35% vs 隐含30.2%，+4.8% edge"
+          },
+          {
+            "market": "大小球",
+            "pick": "大2.25",
+            "odds": "2.12",
+            "reason": "ensemble 51.3% over vs 隐含47.2%，+4.1%"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "~1.75",
+            "reason": "57.3%概率，双方实力接近"
+          },
+          {
+            "market": "比分",
+            "pick": "1-1",
+            "odds": "~7.6",
+            "reason": "最可能比分13.2%"
+          }
+        ]
+      }
+    }
+  ],
   "parlays": [
     {
       "name": "🛡️ 保守串",

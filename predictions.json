@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-18 19:23 UTC",
+  "updated_at": "2026-06-18 19:28 UTC",
   "matches": [
     {
       "home": "switzerland",
       "away": "bosnia-and-herzegovina",
       "match_time": "2026-06-18T19:00Z",
-      "hours_until": -0.4,
+      "hours_until": -0.5,
       "city": "Inglewood, California",
       "venue": "SoFi Stadium",
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
         "win_a": "56.8",
         "draw": "25.0",

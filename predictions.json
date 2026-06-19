@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-19 22:52 UTC",
+  "updated_at": "2026-06-19 22:57 UTC",
   "matches": [
     {
       "home": "scotland",
       "away": "morocco",
       "match_time": "2026-06-19T22:00Z",
-      "hours_until": -0.9,
+      "hours_until": -1.0,
       "city": "Foxborough, Massachusetts",
       "venue": "Gillette Stadium",
       "home_score": 0,
       "away_score": 1,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "money_line": {
         "win_a": "27.2",
         "draw": "27.2",

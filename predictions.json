@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-19 02:37 UTC",
+  "updated_at": "2026-06-19 02:42 UTC",
   "matches": [
     {
       "home": "mexico",
       "away": "south-korea",
       "match_time": "2026-06-19T01:00Z",
-      "hours_until": -1.6,
+      "hours_until": -1.7,
       "city": "Guadalajara",
       "venue": "Estadio Akron",
       "home_score": 1,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "money_line": {
         "win_a": "54.5",
         "draw": "25.6",

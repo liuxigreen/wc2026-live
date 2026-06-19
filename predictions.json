@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 23:02 UTC",
+  "updated_at": "2026-06-19 23:06 UTC",
   "matches": [
     {
       "home": "scotland",
@@ -65,7 +65,40 @@
       },
       "market_odds": null,
       "ensemble": null,
-      "edge": {}
+      "edge": {},
+      "ai": {
+        "verdict": "skip",
+        "pick": "⏭️ 不推荐",
+        "summary": "比赛已在进行（半场0-1），无市场赔率，不建议追盘。",
+        "edge": "N/A",
+        "confidence": "N/A",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "摩洛哥胜",
+            "odds": "N/A",
+            "reason": "模型45.6%领先，已1-0，但无赔率无法计算edge"
+          },
+          {
+            "market": "大小球",
+            "pick": "大2.5",
+            "odds": "N/A",
+            "reason": "模型52.2%，已进1球还需2球，半场后难度增大"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "N/A",
+            "reason": "模型56.2%，苏格兰落后会进攻，有机会"
+          },
+          {
+            "market": "比分",
+            "pick": "1-2",
+            "odds": "N/A",
+            "reason": "最可能比分9.3%，摩洛哥小胜"
+          }
+        ]
+      }
     }
   ],
   "parlays": []

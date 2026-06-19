@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-19 20:31 UTC",
+  "updated_at": "2026-06-19 20:39 UTC",
   "matches": [
     {
       "home": "usa",
       "away": "australia",
       "match_time": "2026-06-19T19:00Z",
-      "hours_until": -1.5,
+      "hours_until": -1.7,
       "city": "Seattle, Washington",
       "venue": "Lumen Field",
       "home_score": 2,

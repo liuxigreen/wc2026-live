@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-20 20:54 UTC",
+  "updated_at": "2026-06-20 20:59 UTC",
   "matches": [
     {
       "home": "germany",
       "away": "ivory-coast",
       "match_time": "2026-06-20T20:00Z",
-      "hours_until": -0.9,
+      "hours_until": -1.0,
       "city": "Toronto",
       "venue": "BMO Field",
       "home_score": 0,
       "away_score": 1,
       "state": "in",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "money_line": {
         "win_a": "61.3",
         "draw": "23.7",

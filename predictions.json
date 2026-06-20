@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20 01:42 UTC",
+  "updated_at": "2026-06-20 01:46 UTC",
   "matches": [
     {
       "home": "brazil",
@@ -68,42 +68,5 @@
       "edge": {}
     }
   ],
-  "parlays": [
-    {
-      "name": "🛡️ 保守串",
-      "target": "3-5x",
-      "picks": [
-        {
-          "match": "ecuador-curacao",
-          "pick": "厄瓜多尔胜",
-          "odds": "N/A",
-          "reason": "Elo差318，xG碾压"
-        },
-        {
-          "match": "tunisia-japan",
-          "pick": "日本胜",
-          "odds": "N/A",
-          "reason": "Elo差736，模型86.3%"
-        }
-      ]
-    },
-    {
-      "name": "🔥 进攻串",
-      "target": "8-15x",
-      "picks": [
-        {
-          "match": "ecuador-curacao",
-          "pick": "2-0比分",
-          "odds": "N/A",
-          "reason": "最可能比分12.7%，零封"
-        },
-        {
-          "match": "tunisia-japan",
-          "pick": "0-2比分",
-          "odds": "N/A",
-          "reason": "最可能比分19.9%，零封"
-        }
-      ]
-    }
-  ]
+  "parlays": []
 }

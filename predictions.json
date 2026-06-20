@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-20 00:43 UTC",
+  "updated_at": "2026-06-20 00:48 UTC",
   "matches": [
     {
       "home": "brazil",
       "away": "haiti",
       "match_time": "2026-06-20T00:30Z",
-      "hours_until": -0.2,
+      "hours_until": -0.3,
       "city": "Philadelphia, Pennsylvania",
       "venue": "Lincoln Financial Field",
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "money_line": {
         "win_a": "86.9",
         "draw": "11.2",

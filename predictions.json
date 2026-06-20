@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-20 03:44 UTC",
+  "updated_at": "2026-06-20 03:49 UTC",
   "matches": [
     {
       "home": "turkey",
       "away": "paraguay",
       "match_time": "2026-06-20T03:00Z",
-      "hours_until": -0.7,
+      "hours_until": -0.8,
       "city": "Santa Clara, California",
       "venue": "Levi's Stadium",
       "home_score": 0,
       "away_score": 1,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "money_line": {
         "win_a": "26.3",
         "draw": "27.1",

@@ -1,5 +1,105 @@
 {
-  "updated_at": "2026-06-20 03:02 UTC",
-  "matches": [],
+  "updated_at": "2026-06-20 03:07 UTC",
+  "matches": [
+    {
+      "home": "turkey",
+      "away": "paraguay",
+      "match_time": "2026-06-20T03:00Z",
+      "hours_until": -0.1,
+      "city": "Santa Clara, California",
+      "venue": "Levi's Stadium",
+      "home_score": 0,
+      "away_score": 1,
+      "state": "in",
+      "status": "STATUS_FIRST_HALF",
+      "money_line": {
+        "win_a": "26.3",
+        "draw": "27.1",
+        "win_b": "46.6"
+      },
+      "xg": {
+        "a": "1.16",
+        "b": "1.6"
+      },
+      "elo": {
+        "a": 1383,
+        "b": 1573,
+        "diff": -190
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "12.9"
+        ],
+        [
+          "1-2",
+          "9.4"
+        ],
+        [
+          "0-1",
+          "9.0"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "56.0",
+        "no": "44.0"
+      },
+      "spread": {
+        "turkey -1.5": "11.0",
+        "paraguay +1.5": "89.0"
+      },
+      "half_time": {
+        "win_a": "22.4",
+        "draw": "43.5",
+        "win_b": "34.2"
+      },
+      "squad_quality": {
+        "a": 0.71,
+        "b": -1.13
+      },
+      "market_odds": null,
+      "ensemble": null,
+      "edge": {},
+      "ai": {
+        "verdict": "skip",
+        "pick": "—",
+        "summary": "无市场赔率，模型无明确强势方（巴拉圭46.6%最高），跳过",
+        "edge": "N/A",
+        "confidence": "低",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "客胜",
+            "odds": "N/A",
+            "reason": "巴拉圭46.6%略占优，但无赔率无法判断edge"
+          },
+          {
+            "market": "大小球",
+            "pick": "大2.5",
+            "odds": "N/A",
+            "reason": "模型52.2%略微倾向大球"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "N/A",
+            "reason": "BTTS 56%，双方xG均衡"
+          },
+          {
+            "market": "比分",
+            "pick": "1-1",
+            "odds": "N/A",
+            "reason": "最高概率比分12.9%"
+          }
+        ]
+      }
+    }
+  ],
   "parlays": []
 }

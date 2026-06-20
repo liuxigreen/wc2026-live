@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-20 21:04 UTC",
+  "updated_at": "2026-06-20 21:09 UTC",
   "matches": [
     {
       "home": "germany",
       "away": "ivory-coast",
       "match_time": "2026-06-20T20:00Z",
-      "hours_until": -1.1,
+      "hours_until": -1.2,
       "city": "Toronto",
       "venue": "BMO Field",
       "home_score": 0,

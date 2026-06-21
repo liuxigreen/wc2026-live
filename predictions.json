@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-21 19:24 UTC",
+  "updated_at": "2026-06-21 19:29 UTC",
   "matches": [
     {
       "home": "belgium",
       "away": "iran",
       "match_time": "2026-06-21T19:00Z",
-      "hours_until": -0.4,
+      "hours_until": -0.5,
       "city": "Inglewood, California",
       "venue": "SoFi Stadium",
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "money_line": {
         "win_a": "55.5",
         "draw": "25.3",

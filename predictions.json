@@ -1,71 +1,104 @@
 {
-  "updated_at": "2026-06-21 18:03 UTC",
+  "updated_at": "2026-06-21 19:08 UTC",
   "matches": [
     {
-      "home": "spain",
-      "away": "saudi-arabia",
-      "match_time": "2026-06-21T16:00Z",
-      "hours_until": -2.1,
-      "city": "Atlanta, Georgia",
-      "venue": "Mercedes-Benz Stadium",
-      "home_score": 4,
+      "home": "belgium",
+      "away": "iran",
+      "match_time": "2026-06-21T19:00Z",
+      "hours_until": -0.1,
+      "city": "Inglewood, California",
+      "venue": "SoFi Stadium",
+      "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "78.3",
-        "draw": "16.4",
-        "win_b": "5.2"
+        "win_a": "55.5",
+        "draw": "25.3",
+        "win_b": "19.2"
       },
       "xg": {
-        "a": "2.3",
-        "b": "0.46"
+        "a": "1.79",
+        "b": "0.97"
       },
       "elo": {
-        "a": 2092,
-        "b": 1598,
-        "diff": 494
+        "a": 1928,
+        "b": 1738,
+        "diff": 190
       },
       "top_scores": [
         [
-          "2-0",
-          "16.7"
+          "1-1",
+          "12.1"
         ],
         [
           "1-0",
-          "13.8"
+          "10.2"
         ],
         [
-          "3-0",
-          "12.8"
+          "2-0",
+          "10.1"
         ]
       ],
       "over_under": {
         "2.5": {
-          "over": "52.1",
-          "under": "47.9"
+          "over": "52.2",
+          "under": "47.8"
         }
       },
       "btts": {
-        "yes": "34.1",
-        "no": "65.9"
+        "yes": "52.9",
+        "no": "47.1"
       },
       "spread": {
-        "spain -1.5": "55.3",
-        "saudi-arabia +1.5": "44.7"
+        "belgium -1.5": "32.2",
+        "iran +1.5": "67.8"
       },
       "half_time": {
-        "win_a": "54.5",
-        "draw": "38.2",
-        "win_b": "7.3"
+        "win_a": "39.4",
+        "draw": "42.7",
+        "win_b": "17.9"
       },
       "squad_quality": {
-        "a": 1.18,
-        "b": -0.73
+        "a": 1.87,
+        "b": 0.18
       },
       "market_odds": null,
       "ensemble": null,
-      "edge": {}
+      "edge": {},
+      "ai": {
+        "verdict": "buy",
+        "pick": "小2.75",
+        "summary": "比利时进攻乏力xG仅1.79，伊朗防守扎实，综合概率小球+5.1%正edge",
+        "edge": "+5.1%",
+        "confidence": "中",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "比利时胜",
+            "odds": "~1.40",
+            "reason": "综合65.5%但市场71.4%已过热，负edge不买"
+          },
+          {
+            "market": "大小球",
+            "pick": "小2.75",
+            "odds": "~1.86",
+            "reason": "est58.9% vs 隐含53.8%，+5.1%edge"
+          },
+          {
+            "market": "BTTS",
+            "pick": "否",
+            "odds": "N/A",
+            "reason": "模型47.1%不进球，伊朗攻击力弱"
+          },
+          {
+            "market": "比分",
+            "pick": "1-0",
+            "odds": "~6.5",
+            "reason": "最可能比分之一10.2%，低xG比赛"
+          }
+        ]
+      }
     }
   ],
   "parlays": [

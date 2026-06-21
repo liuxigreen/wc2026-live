@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-21 00:07 UTC",
+  "updated_at": "2026-06-21 00:12 UTC",
   "matches": [
     {
       "home": "ecuador",
       "away": "curacao",
       "match_time": "2026-06-21T00:00Z",
-      "hours_until": -0.1,
+      "hours_until": -0.2,
       "city": "Kansas City, Missouri",
       "venue": "GEHA Field at Arrowhead Stadium",
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "money_line": {
         "win_a": "77.8",
         "draw": "16.7",

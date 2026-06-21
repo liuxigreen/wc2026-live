@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-21 22:54 UTC",
+  "updated_at": "2026-06-21 23:00 UTC",
   "matches": [
     {
       "home": "uruguay",
       "away": "cape-verde",
       "match_time": "2026-06-21T22:00Z",
-      "hours_until": -0.9,
+      "hours_until": -1.0,
       "city": "Miami Gardens, Florida",
       "venue": "Hard Rock Stadium",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "money_line": {
         "win_a": "67.2",
         "draw": "21.6",

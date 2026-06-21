@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-21 04:35 UTC",
+  "updated_at": "2026-06-21 04:40 UTC",
   "matches": [
     {
       "home": "tunisia",
       "away": "japan",
       "match_time": "2026-06-21T04:00Z",
-      "hours_until": -0.6,
+      "hours_until": -0.7,
       "city": "Guadalupe",
       "venue": "Estadio BBVA",
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "state": "in",
       "status": "STATUS_FIRST_HALF",
       "money_line": {

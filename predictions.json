@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-22 21:08 UTC",
+  "updated_at": "2026-06-22 21:15 UTC",
   "matches": [
     {
       "home": "france",
       "away": "iraq",
       "match_time": "2026-06-22T21:00Z",
-      "hours_until": -0.1,
+      "hours_until": -0.3,
       "city": "Philadelphia, Pennsylvania",
       "venue": "Lincoln Financial Field",
       "home_score": 0,

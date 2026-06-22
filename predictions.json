@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 01:09 UTC",
+  "updated_at": "2026-06-22 01:14 UTC",
   "matches": [
     {
       "home": "new-zealand",
@@ -11,7 +11,7 @@
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "money_line": {
         "win_a": "32.8",
         "draw": "27.8",

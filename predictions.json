@@ -1,101 +1,101 @@
 {
-  "updated_at": "2026-06-22 19:05 UTC",
+  "updated_at": "2026-06-22 21:08 UTC",
   "matches": [
     {
-      "home": "argentina",
-      "away": "austria",
-      "match_time": "2026-06-22T17:00Z",
-      "hours_until": -2.1,
-      "city": "Arlington, Texas",
-      "venue": "AT&T Stadium",
-      "home_score": 1,
+      "home": "france",
+      "away": "iraq",
+      "match_time": "2026-06-22T21:00Z",
+      "hours_until": -0.1,
+      "city": "Philadelphia, Pennsylvania",
+      "venue": "Lincoln Financial Field",
+      "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "69.2",
-        "draw": "20.7",
-        "win_b": "10.1"
+        "win_a": "87.5",
+        "draw": "10.7",
+        "win_b": "1.8"
       },
       "xg": {
-        "a": "2.08",
-        "b": "0.68"
+        "a": "2.63",
+        "b": "0.25"
       },
       "elo": {
-        "a": 2148,
-        "b": 1783,
-        "diff": 365
+        "a": 2078,
+        "b": 1386,
+        "diff": 692
       },
       "top_scores": [
         [
           "2-0",
-          "13.7"
+          "19.5"
+        ],
+        [
+          "3-0",
+          "17.0"
         ],
         [
           "1-0",
-          "12.3"
-        ],
-        [
-          "1-1",
-          "9.8"
+          "14.4"
         ]
       ],
       "over_under": {
         "2.5": {
-          "over": "52.1",
-          "under": "47.9"
+          "over": "54.8",
+          "under": "45.2"
         }
       },
       "btts": {
-        "yes": "44.1",
-        "no": "55.9"
+        "yes": "20.9",
+        "no": "79.1"
       },
       "spread": {
-        "argentina -1.5": "45.2",
-        "austria +1.5": "54.8"
+        "france -1.5": "67.6",
+        "iraq +1.5": "32.4"
       },
       "half_time": {
-        "win_a": "48.1",
-        "draw": "40.5",
-        "win_b": "11.5"
+        "win_a": "62.7",
+        "draw": "33.8",
+        "win_b": "3.5"
       },
       "squad_quality": {
-        "a": 2.12,
-        "b": 0.77
+        "a": 0.62,
+        "b": -1.06
       },
       "market_odds": null,
       "ensemble": null,
       "edge": {},
       "ai": {
-        "verdict": "skip",
-        "pick": "无明确edge",
-        "summary": "阿根廷65%胜率，但市场定价合理，所有盘口edge均<2%",
-        "edge": "N/A",
-        "confidence": "低",
+        "verdict": "buy",
+        "pick": "小3.75",
+        "summary": "法国碾压局但进球不会太多，模型under 3.75概率75.5%远超市场54.6%，+20.8% edge",
+        "edge": "+20.8%",
+        "confidence": "高",
         "bets": [
           {
             "market": "胜负盘",
-            "pick": "阿根廷胜",
-            "odds": "1.51",
-            "reason": "ensemble 65.4% vs 市场66.2%，无edge"
+            "pick": "法国胜",
+            "odds": "1.06",
+            "reason": "89%胜率无悬念，赔率太低不单买"
           },
           {
             "market": "大小球",
-            "pick": "大2.5",
-            "odds": "1.98",
-            "reason": "模型52.1% vs 市场50.5%，+1.6%太薄"
+            "pick": "小3.75",
+            "odds": "1.83",
+            "reason": "模型75.5% vs 市场54.6%，+20.8% edge，最大价值"
           },
           {
             "market": "BTTS",
             "pick": "否",
             "odds": "N/A",
-            "reason": "模型55.9%不双方进球，奥地利xG仅0.68"
+            "reason": "模型79.1%不双方进球，伊拉克xG仅0.25"
           },
           {
             "market": "比分",
-            "pick": "2-0",
+            "pick": "3-0",
             "odds": "5.88",
-            "reason": "最可能比分13.7%，但edge不足"
+            "reason": "最可能大胜比分17.0%概率"
           }
         ]
       }

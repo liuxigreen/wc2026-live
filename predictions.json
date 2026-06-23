@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-23 00:02 UTC",
+  "updated_at": "2026-06-23 00:09 UTC",
   "matches": [
     {
       "home": "france",
       "away": "iraq",
       "match_time": "2026-06-22T21:00Z",
-      "hours_until": -3.0,
+      "hours_until": -3.2,
       "city": "Philadelphia, Pennsylvania",
       "venue": "Lincoln Financial Field",
       "home_score": 1,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_DELAYED",
+      "status": "STATUS_SECOND_HALF",
       "money_line": {
         "win_a": "87.5",
         "draw": "10.7",
@@ -96,6 +96,105 @@
             "pick": "3-0",
             "odds": "5.88",
             "reason": "最可能大胜比分17.0%概率"
+          }
+        ]
+      }
+    },
+    {
+      "home": "norway",
+      "away": "senegal",
+      "match_time": "2026-06-23T00:00Z",
+      "hours_until": -0.2,
+      "city": "East Rutherford, New Jersey",
+      "venue": "MetLife Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "in",
+      "status": "STATUS_IN_PROGRESS",
+      "money_line": {
+        "win_a": "36.9",
+        "draw": "27.9",
+        "win_b": "35.2"
+      },
+      "xg": {
+        "a": "1.4",
+        "b": "1.36"
+      },
+      "elo": {
+        "a": 1795,
+        "b": 1839,
+        "diff": -44
+      },
+      "top_scores": [
+        [
+          "1-1",
+          "13.2"
+        ],
+        [
+          "2-1",
+          "8.4"
+        ],
+        [
+          "1-2",
+          "8.2"
+        ]
+      ],
+      "over_under": {
+        "2.5": {
+          "over": "52.2",
+          "under": "47.8"
+        }
+      },
+      "btts": {
+        "yes": "57.3",
+        "no": "42.7"
+      },
+      "spread": {
+        "norway -1.5": "17.7",
+        "senegal +1.5": "82.3"
+      },
+      "half_time": {
+        "win_a": "28.6",
+        "draw": "43.8",
+        "win_b": "27.6"
+      },
+      "squad_quality": {
+        "a": 0.6,
+        "b": 0.56
+      },
+      "market_odds": null,
+      "ensemble": null,
+      "edge": {},
+      "ai": {
+        "verdict": "skip",
+        "pick": "无明确edge",
+        "summary": "五五开对决，所有盘口edge<1%，市场定价精准",
+        "edge": "N/A",
+        "confidence": "低",
+        "bets": [
+          {
+            "market": "胜负盘",
+            "pick": "塞内加尔胜",
+            "odds": "3.21",
+            "reason": "ensemble 31.7% vs 市场31.2%，+0.5%太薄"
+          },
+          {
+            "market": "大小球",
+            "pick": "大2.5",
+            "odds": "1.92",
+            "reason": "模型52.1% vs 市场52.1%，零edge"
+          },
+          {
+            "market": "BTTS",
+            "pick": "是",
+            "odds": "N/A",
+            "reason": "模型57.3%双方进球，xG接近1.4-1.4"
+          },
+          {
+            "market": "比分",
+            "pick": "1-1",
+            "odds": "6.5",
+            "reason": "最可能比分13.2%，但无edge支撑"
           }
         ]
       }

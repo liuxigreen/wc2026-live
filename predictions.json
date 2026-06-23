@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-23 04:49 UTC",
+  "updated_at": "2026-06-23 04:55 UTC",
   "matches": [
     {
       "home": "jordan",
       "away": "algeria",
       "match_time": "2026-06-23T03:00Z",
-      "hours_until": -1.8,
+      "hours_until": -1.9,
       "city": "Santa Clara, California",
       "venue": "Levi's Stadium",
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "state": "in",
       "status": "STATUS_SECOND_HALF",
       "money_line": {

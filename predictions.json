@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-23 17:44 UTC",
+  "updated_at": "2026-06-23 17:49 UTC",
   "matches": [
     {
       "home": "portugal",
       "away": "uzbekistan",
       "match_time": "2026-06-23T17:00Z",
-      "hours_until": -0.7,
+      "hours_until": -0.8,
       "city": "Houston, Texas",
       "venue": "NRG Stadium",
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
         "win_a": "81.1",
         "draw": "14.9",

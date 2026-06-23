@@ -1,101 +1,101 @@
 {
-  "updated_at": "2026-06-23 18:14 UTC",
+  "updated_at": "2026-06-23 23:26 UTC",
   "matches": [
     {
-      "home": "portugal",
-      "away": "uzbekistan",
-      "match_time": "2026-06-23T17:00Z",
-      "hours_until": -1.2,
-      "city": "Houston, Texas",
-      "venue": "NRG Stadium",
-      "home_score": 3,
+      "home": "panama",
+      "away": "croatia",
+      "match_time": "2026-06-23T23:00Z",
+      "hours_until": -0.4,
+      "city": "Toronto",
+      "venue": "BMO Field",
+      "home_score": 0,
       "away_score": 0,
       "state": "in",
       "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "81.1",
-        "draw": "14.9",
-        "win_b": "4.0"
+        "win_a": "19.1",
+        "draw": "25.3",
+        "win_b": "55.7"
       },
       "xg": {
-        "a": "2.37",
-        "b": "0.39"
+        "a": "0.97",
+        "b": "1.79"
       },
       "elo": {
-        "a": 1997,
-        "b": 1460,
-        "diff": 537
+        "a": 1597,
+        "b": 1901,
+        "diff": -304
       },
       "top_scores": [
         [
-          "2-0",
-          "17.8"
+          "1-1",
+          "12.1"
         ],
         [
-          "1-0",
-          "14.4"
+          "0-1",
+          "10.2"
         ],
         [
-          "3-0",
-          "14.0"
+          "0-2",
+          "10.2"
         ]
       ],
       "over_under": {
         "2.5": {
-          "over": "52.1",
-          "under": "47.9"
+          "over": "52.2",
+          "under": "47.8"
         }
       },
       "btts": {
-        "yes": "30.0",
-        "no": "70.0"
+        "yes": "52.8",
+        "no": "47.2"
       },
       "spread": {
-        "portugal -1.5": "58.6",
-        "uzbekistan +1.5": "41.4"
+        "panama -1.5": "6.9",
+        "croatia +1.5": "93.1"
       },
       "half_time": {
-        "win_a": "56.7",
-        "draw": "37.3",
-        "win_b": "6.0"
+        "win_a": "17.8",
+        "draw": "42.7",
+        "win_b": "39.5"
       },
       "squad_quality": {
-        "a": 2.41,
-        "b": -0.48
+        "a": 0.58,
+        "b": 1.13
       },
       "market_odds": null,
       "ensemble": null,
       "edge": {},
       "ai": {
-        "verdict": "buy",
-        "pick": "小3.0",
-        "summary": "葡萄牙碾压但乌兹别克防守型，模型under 3.0概率70.1% vs 市场53.5%，+16.6% edge",
-        "edge": "+16.6%",
-        "confidence": "高",
+        "verdict": "skip",
+        "pick": "无明确edge",
+        "summary": "克罗地亚60%胜率，市场定价合理，所有盘口edge<1%",
+        "edge": "N/A",
+        "confidence": "低",
         "bets": [
           {
             "market": "胜负盘",
-            "pick": "葡萄牙胜",
-            "odds": "1.2",
-            "reason": "81%胜率，赔率低不单买"
+            "pick": "克罗地亚胜",
+            "odds": "1.56",
+            "reason": "ensemble 60.2% vs 市场64.1%，负edge"
           },
           {
             "market": "大小球",
-            "pick": "小3.0",
-            "odds": "1.87",
-            "reason": "模型70.1% vs 市场53.5%，+16.6% edge，核心投注"
+            "pick": "大2.5",
+            "odds": "1.93",
+            "reason": "模型52.1% vs 市场51.8%，+0.3%太薄"
           },
           {
             "market": "BTTS",
-            "pick": "否",
+            "pick": "是",
             "odds": "N/A",
-            "reason": "模型70.1%不双方进球，乌兹别克xG仅0.39"
+            "reason": "模型52.4%双方进球，巴拿马xG 0.95"
           },
           {
             "market": "比分",
-            "pick": "2-0",
-            "odds": "5.62",
-            "reason": "最可能比分17.8%，葡萄牙稳控节奏"
+            "pick": "1-2",
+            "odds": "7.5",
+            "reason": "最可能客胜比分，但无edge支撑"
           }
         ]
       }

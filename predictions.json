@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-23 00:47 UTC",
+  "updated_at": "2026-06-23 00:54 UTC",
   "matches": [
     {
       "home": "france",
       "away": "iraq",
       "match_time": "2026-06-22T21:00Z",
-      "hours_until": -3.8,
+      "hours_until": -3.9,
       "city": "Philadelphia, Pennsylvania",
       "venue": "Lincoln Financial Field",
       "home_score": 3,
@@ -104,10 +104,10 @@
       "home": "norway",
       "away": "senegal",
       "match_time": "2026-06-23T00:00Z",
-      "hours_until": -0.8,
+      "hours_until": -0.9,
       "city": "East Rutherford, New Jersey",
       "venue": "MetLife Stadium",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "state": "in",
       "status": "STATUS_FIRST_HALF",

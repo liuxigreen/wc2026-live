@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-24 20:07 UTC",
+  "updated_at": "2026-06-24 20:13 UTC",
   "matches": [
     {
       "home": "bosnia-and-herzegovina",
       "away": "qatar",
       "match_time": "2026-06-24T19:00Z",
-      "hours_until": -1.1,
+      "hours_until": -1.2,
       "city": "Seattle, Washington",
       "venue": "Lumen Field",
       "home_score": 2,
@@ -71,13 +71,13 @@
       "home": "switzerland",
       "away": "canada",
       "match_time": "2026-06-24T19:00Z",
-      "hours_until": -1.1,
+      "hours_until": -1.2,
       "city": "Vancouver",
       "venue": "BC Place",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "money_line": {
         "win_a": "44.3",
         "draw": "27.4",

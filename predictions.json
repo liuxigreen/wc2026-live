@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-24 19:43 UTC",
+  "updated_at": "2026-06-24 19:50 UTC",
   "matches": [
     {
       "home": "bosnia-and-herzegovina",
       "away": "qatar",
       "match_time": "2026-06-24T19:00Z",
-      "hours_until": -0.7,
+      "hours_until": -0.8,
       "city": "Seattle, Washington",
       "venue": "Lumen Field",
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "state": "in",
       "status": "STATUS_FIRST_HALF",
       "money_line": {
@@ -71,7 +71,7 @@
       "home": "switzerland",
       "away": "canada",
       "match_time": "2026-06-24T19:00Z",
-      "hours_until": -0.7,
+      "hours_until": -0.8,
       "city": "Vancouver",
       "venue": "BC Place",
       "home_score": 0,

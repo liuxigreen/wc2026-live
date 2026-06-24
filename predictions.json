@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-24 00:02 UTC",
+  "updated_at": "2026-06-24 00:08 UTC",
   "matches": [
     {
       "home": "panama",
       "away": "croatia",
       "match_time": "2026-06-23T23:00Z",
-      "hours_until": -1.0,
+      "hours_until": -1.1,
       "city": "Toronto",
       "venue": "BMO Field",
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "money_line": {
         "win_a": "19.1",
         "draw": "25.3",

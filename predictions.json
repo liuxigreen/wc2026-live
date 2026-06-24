@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-24 22:38 UTC",
+  "updated_at": "2026-06-24 22:43 UTC",
   "matches": [
     {
       "home": "morocco",
       "away": "haiti",
       "match_time": "2026-06-24T22:00Z",
-      "hours_until": -0.6,
+      "hours_until": -0.7,
       "city": "Atlanta, Georgia",
       "venue": "Mercedes-Benz Stadium",
       "home_score": 0,
@@ -71,7 +71,7 @@
       "home": "scotland",
       "away": "brazil",
       "match_time": "2026-06-24T22:00Z",
-      "hours_until": -0.6,
+      "hours_until": -0.7,
       "city": "Miami Gardens, Florida",
       "venue": "Hard Rock Stadium",
       "home_score": 0,

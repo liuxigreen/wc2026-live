@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-24 20:57 UTC",
+  "updated_at": "2026-06-24 21:12 UTC",
   "matches": [
     {
       "home": "bosnia-and-herzegovina",
       "away": "qatar",
       "match_time": "2026-06-24T19:00Z",
-      "hours_until": -2.0,
+      "hours_until": -2.2,
       "city": "Seattle, Washington",
       "venue": "Lumen Field",
       "home_score": 3,
@@ -62,72 +62,6 @@
       "squad_quality": {
         "a": -1.28,
         "b": 0.82
-      },
-      "market_odds": null,
-      "ensemble": null,
-      "edge": {}
-    },
-    {
-      "home": "switzerland",
-      "away": "canada",
-      "match_time": "2026-06-24T19:00Z",
-      "hours_until": -2.0,
-      "city": "Vancouver",
-      "venue": "BC Place",
-      "home_score": 2,
-      "away_score": 1,
-      "state": "in",
-      "status": "STATUS_SECOND_HALF",
-      "money_line": {
-        "win_a": "44.3",
-        "draw": "27.4",
-        "win_b": "28.3"
-      },
-      "xg": {
-        "a": "1.56",
-        "b": "1.21"
-      },
-      "elo": {
-        "a": 1838,
-        "b": 1789,
-        "diff": 49
-      },
-      "top_scores": [
-        [
-          "1-1",
-          "13.0"
-        ],
-        [
-          "2-1",
-          "9.2"
-        ],
-        [
-          "1-0",
-          "8.6"
-        ]
-      ],
-      "over_under": {
-        "2.5": {
-          "over": "52.2",
-          "under": "47.8"
-        }
-      },
-      "btts": {
-        "yes": "56.5",
-        "no": "43.5"
-      },
-      "spread": {
-        "switzerland -1.5": "23.0",
-        "canada +1.5": "77.0"
-      },
-      "half_time": {
-        "win_a": "32.8",
-        "draw": "43.6",
-        "win_b": "23.6"
-      },
-      "squad_quality": {
-        "a": 0.71,
-        "b": 0.09
       },
       "market_odds": null,
       "ensemble": null,

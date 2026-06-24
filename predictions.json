@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-24 20:24 UTC",
+  "updated_at": "2026-06-24 20:51 UTC",
   "matches": [
     {
       "home": "bosnia-and-herzegovina",
       "away": "qatar",
       "match_time": "2026-06-24T19:00Z",
-      "hours_until": -1.4,
+      "hours_until": -1.9,
       "city": "Seattle, Washington",
       "venue": "Lumen Field",
       "home_score": 2,
@@ -71,7 +71,7 @@
       "home": "switzerland",
       "away": "canada",
       "match_time": "2026-06-24T19:00Z",
-      "hours_until": -1.4,
+      "hours_until": -1.9,
       "city": "Vancouver",
       "venue": "BC Place",
       "home_score": 2,

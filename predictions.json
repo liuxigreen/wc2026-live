@@ -1,133 +1,133 @@
 {
-  "updated_at": "2026-06-25 00:04 UTC",
+  "updated_at": "2026-06-25 02:29 UTC",
   "matches": [
     {
-      "home": "morocco",
-      "away": "haiti",
-      "match_time": "2026-06-24T22:00Z",
-      "hours_until": -2.1,
-      "city": "Atlanta, Georgia",
-      "venue": "Mercedes-Benz Stadium",
-      "home_score": 4,
+      "home": "czech-republic",
+      "away": "mexico",
+      "match_time": "2026-06-25T01:00Z",
+      "hours_until": -1.5,
+      "city": "Mexico City",
+      "venue": "Estadio Banorte",
+      "home_score": 0,
       "away_score": 2,
       "state": "in",
       "status": "STATUS_SECOND_HALF",
       "money_line": {
-        "win_a": "77.7",
-        "draw": "16.8",
-        "win_b": "5.5"
+        "win_a": "19.3",
+        "draw": "25.4",
+        "win_b": "55.3"
       },
       "xg": {
-        "a": "2.28",
-        "b": "0.48"
+        "a": "0.98",
+        "b": "1.79"
       },
       "elo": {
-        "a": 1895,
-        "b": 1411,
-        "diff": 484
+        "a": 1579,
+        "b": 1879,
+        "diff": -300
       },
       "top_scores": [
         [
-          "2-0",
-          "16.4"
+          "1-1",
+          "12.1"
         ],
         [
-          "1-0",
-          "13.7"
+          "0-1",
+          "10.2"
         ],
         [
-          "3-0",
-          "12.5"
+          "0-2",
+          "10.1"
         ]
       ],
       "over_under": {
         "2.5": {
-          "over": "52.1",
-          "under": "47.9"
+          "over": "52.2",
+          "under": "47.8"
         }
       },
       "btts": {
-        "yes": "35.0",
-        "no": "65.0"
+        "yes": "53.0",
+        "no": "47.0"
       },
       "spread": {
-        "morocco -1.5": "54.5",
-        "haiti +1.5": "45.5"
+        "czech-republic -1.5": "7.1",
+        "mexico +1.5": "92.9"
       },
       "half_time": {
-        "win_a": "54.0",
-        "draw": "38.4",
-        "win_b": "7.6"
+        "win_a": "18.0",
+        "draw": "42.7",
+        "win_b": "39.3"
       },
       "squad_quality": {
-        "a": -0.12,
-        "b": -1.17
+        "a": -0.54,
+        "b": 0.32
       },
       "market_odds": null,
       "ensemble": null,
       "edge": {}
     },
     {
-      "home": "scotland",
-      "away": "brazil",
-      "match_time": "2026-06-24T22:00Z",
-      "hours_until": -2.1,
-      "city": "Miami Gardens, Florida",
-      "venue": "Hard Rock Stadium",
+      "home": "south-africa",
+      "away": "south-korea",
+      "match_time": "2026-06-25T01:00Z",
+      "hours_until": -1.5,
+      "city": "Guadalupe",
+      "venue": "Estadio BBVA",
       "home_score": 0,
-      "away_score": 3,
+      "away_score": 0,
       "state": "in",
       "status": "STATUS_SECOND_HALF",
       "money_line": {
-        "win_a": "14.5",
-        "draw": "23.4",
-        "win_b": "62.1"
+        "win_a": "23.1",
+        "draw": "26.4",
+        "win_b": "50.5"
       },
       "xg": {
-        "a": "0.83",
-        "b": "1.93"
+        "a": "1.08",
+        "b": "1.69"
       },
       "elo": {
-        "a": 1623,
-        "b": 2008,
-        "diff": -385
+        "a": 1495,
+        "b": 1734,
+        "diff": -239
       },
       "top_scores": [
         [
-          "0-2",
-          "11.7"
+          "1-1",
+          "12.6"
         ],
         [
-          "1-1",
-          "11.2"
+          "1-2",
+          "9.7"
         ],
         [
           "0-1",
-          "11.2"
+          "9.5"
         ]
       ],
       "over_under": {
         "2.5": {
-          "over": "52.1",
-          "under": "47.9"
+          "over": "52.2",
+          "under": "47.8"
         }
       },
       "btts": {
-        "yes": "49.4",
-        "no": "50.6"
+        "yes": "54.9",
+        "no": "45.1"
       },
       "spread": {
-        "scotland -1.5": "4.7",
-        "brazil +1.5": "95.3"
+        "south-africa -1.5": "9.1",
+        "south-korea +1.5": "90.9"
       },
       "half_time": {
-        "win_a": "14.8",
-        "draw": "41.8",
-        "win_b": "43.5"
+        "win_a": "20.4",
+        "draw": "43.2",
+        "win_b": "36.5"
       },
       "squad_quality": {
-        "a": 0.16,
-        "b": 0.78
+        "a": -1.98,
+        "b": 0.23
       },
       "market_odds": null,
       "ensemble": null,

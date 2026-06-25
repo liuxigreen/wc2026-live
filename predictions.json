@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-25 02:29 UTC",
+  "updated_at": "2026-06-25 02:34 UTC",
   "matches": [
     {
       "home": "czech-republic",
       "away": "mexico",
       "match_time": "2026-06-25T01:00Z",
-      "hours_until": -1.5,
+      "hours_until": -1.6,
       "city": "Mexico City",
       "venue": "Estadio Banorte",
       "home_score": 0,
@@ -71,10 +71,10 @@
       "home": "south-africa",
       "away": "south-korea",
       "match_time": "2026-06-25T01:00Z",
-      "hours_until": -1.5,
+      "hours_until": -1.6,
       "city": "Guadalupe",
       "venue": "Estadio BBVA",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "state": "in",
       "status": "STATUS_SECOND_HALF",

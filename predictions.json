@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-25 21:52 UTC",
+  "updated_at": "2026-06-25 22:19 UTC",
   "matches": [
     {
       "home": "curacao",
       "away": "ivory-coast",
       "match_time": "2026-06-25T20:00Z",
-      "hours_until": -1.9,
+      "hours_until": -2.3,
       "city": "Philadelphia, Pennsylvania",
       "venue": "Lincoln Financial Field",
       "home_score": 0,
@@ -71,10 +71,10 @@
       "home": "ecuador",
       "away": "germany",
       "match_time": "2026-06-25T20:00Z",
-      "hours_until": -1.9,
+      "hours_until": -2.3,
       "city": "East Rutherford, New Jersey",
       "venue": "MetLife Stadium",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "state": "in",
       "status": "STATUS_SECOND_HALF",

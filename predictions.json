@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-26 00:51 UTC",
+  "updated_at": "2026-06-26 00:58 UTC",
   "matches": [
     {
       "home": "japan",
       "away": "sweden",
       "match_time": "2026-06-25T23:00Z",
-      "hours_until": -1.9,
+      "hours_until": -2.0,
       "city": "Arlington, Texas",
       "venue": "AT&T Stadium",
       "home_score": 1,
@@ -71,7 +71,7 @@
       "home": "tunisia",
       "away": "netherlands",
       "match_time": "2026-06-25T23:00Z",
-      "hours_until": -1.9,
+      "hours_until": -2.0,
       "city": "Kansas City, Missouri",
       "venue": "GEHA Field at Arrowhead Stadium",
       "home_score": 1,

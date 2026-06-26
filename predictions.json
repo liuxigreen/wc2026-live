@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-06-26 00:58 UTC",
+  "updated_at": "2026-06-26 02:13 UTC",
   "matches": [
     {
-      "home": "japan",
-      "away": "sweden",
-      "match_time": "2026-06-25T23:00Z",
-      "hours_until": -2.0,
-      "city": "Arlington, Texas",
-      "venue": "AT&T Stadium",
-      "home_score": 1,
-      "away_score": 1,
+      "home": "paraguay",
+      "away": "australia",
+      "match_time": "2026-06-26T02:00Z",
+      "hours_until": -0.2,
+      "city": "Santa Clara, California",
+      "venue": "Levi's Stadium",
+      "home_score": 0,
+      "away_score": 0,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "53.6",
-        "draw": "25.8",
-        "win_b": "20.7"
+        "win_a": "33.2",
+        "draw": "27.8",
+        "win_b": "38.9"
       },
       "xg": {
-        "a": "1.75",
-        "b": "1.01"
+        "a": "1.32",
+        "b": "1.44"
       },
       "elo": {
-        "a": 1866,
-        "b": 1701,
-        "diff": 165
+        "a": 1631,
+        "b": 1725,
+        "diff": -94
       },
       "top_scores": [
         [
           "1-1",
-          "12.3"
+          "13.2"
         ],
         [
-          "1-0",
-          "9.9"
+          "1-2",
+          "8.7"
         ],
         [
           "2-1",
-          "9.8"
+          "7.9"
         ]
       ],
       "over_under": {
@@ -47,87 +47,87 @@
         }
       },
       "btts": {
-        "yes": "53.7",
-        "no": "46.3"
+        "yes": "57.2",
+        "no": "42.8"
       },
       "spread": {
-        "japan -1.5": "30.5",
-        "sweden +1.5": "69.5"
+        "paraguay -1.5": "15.2",
+        "australia +1.5": "84.8"
       },
       "half_time": {
-        "win_a": "38.3",
-        "draw": "42.9",
-        "win_b": "18.8"
+        "win_a": "26.4",
+        "draw": "43.8",
+        "win_b": "29.8"
       },
       "squad_quality": {
-        "a": -0.3,
-        "b": -1.14
+        "a": -1.13,
+        "b": -1.09
       },
       "market_odds": null,
       "ensemble": null,
       "edge": {}
     },
     {
-      "home": "tunisia",
-      "away": "netherlands",
-      "match_time": "2026-06-25T23:00Z",
-      "hours_until": -2.0,
-      "city": "Kansas City, Missouri",
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "home_score": 1,
-      "away_score": 3,
+      "home": "turkey",
+      "away": "usa",
+      "match_time": "2026-06-26T02:00Z",
+      "hours_until": -0.2,
+      "city": "Inglewood, California",
+      "venue": "SoFi Stadium",
+      "home_score": 0,
+      "away_score": 1,
       "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_FIRST_HALF",
       "money_line": {
-        "win_a": "10.9",
-        "draw": "21.3",
-        "win_b": "67.8"
+        "win_a": "26.5",
+        "draw": "27.1",
+        "win_b": "46.4"
       },
       "xg": {
-        "a": "0.71",
-        "b": "2.05"
+        "a": "1.16",
+        "b": "1.6"
       },
       "elo": {
-        "a": 1539,
-        "b": 1998,
-        "diff": -459
+        "a": 1709,
+        "b": 1897,
+        "diff": -188
       },
       "top_scores": [
         [
-          "0-2",
-          "13.3"
+          "1-1",
+          "12.9"
+        ],
+        [
+          "1-2",
+          "9.4"
         ],
         [
           "0-1",
-          "12.0"
-        ],
-        [
-          "1-1",
-          "10.1"
+          "8.9"
         ]
       ],
       "over_under": {
         "2.5": {
-          "over": "52.1",
-          "under": "47.9"
+          "over": "52.2",
+          "under": "47.8"
         }
       },
       "btts": {
-        "yes": "45.2",
-        "no": "54.8"
+        "yes": "56.0",
+        "no": "44.0"
       },
       "spread": {
-        "tunisia -1.5": "3.2",
-        "netherlands +1.5": "96.8"
+        "turkey -1.5": "11.0",
+        "usa +1.5": "89.0"
       },
       "half_time": {
-        "win_a": "12.1",
-        "draw": "40.7",
-        "win_b": "47.1"
+        "win_a": "22.4",
+        "draw": "43.5",
+        "win_b": "34.1"
       },
       "squad_quality": {
-        "a": -1.53,
-        "b": 1.27
+        "a": 0.71,
+        "b": 0.0
       },
       "market_odds": null,
       "ensemble": null,

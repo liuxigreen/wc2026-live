@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-26 02:13 UTC",
+  "updated_at": "2026-06-26 02:45 UTC",
   "matches": [
     {
       "home": "paraguay",
       "away": "australia",
       "match_time": "2026-06-26T02:00Z",
-      "hours_until": -0.2,
+      "hours_until": -0.8,
       "city": "Santa Clara, California",
       "venue": "Levi's Stadium",
       "home_score": 0,
@@ -71,10 +71,10 @@
       "home": "turkey",
       "away": "usa",
       "match_time": "2026-06-26T02:00Z",
-      "hours_until": -0.2,
+      "hours_until": -0.8,
       "city": "Inglewood, California",
       "venue": "SoFi Stadium",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 1,
       "state": "in",
       "status": "STATUS_FIRST_HALF",

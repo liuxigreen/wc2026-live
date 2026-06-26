@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-26 20:32 UTC",
+  "updated_at": "2026-06-26 21:30 UTC",
   "matches": [
     {
       "home": "norway",
       "away": "france",
       "match_time": "2026-06-26T19:00Z",
-      "hours_until": -1.5,
+      "hours_until": -2.5,
       "city": "Foxborough, Massachusetts",
       "venue": "Gillette Stadium",
       "home_score": 1,
@@ -71,10 +71,10 @@
       "home": "senegal",
       "away": "iraq",
       "match_time": "2026-06-26T19:00Z",
-      "hours_until": -1.5,
+      "hours_until": -2.5,
       "city": "Toronto",
       "venue": "BMO Field",
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 0,
       "state": "in",
       "status": "STATUS_SECOND_HALF",

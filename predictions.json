@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-27 00:27 UTC",
+  "updated_at": "2026-06-27 00:43 UTC",
   "matches": [
     {
       "home": "cape-verde",
       "away": "saudi-arabia",
       "match_time": "2026-06-27T00:00Z",
-      "hours_until": -0.5,
+      "hours_until": -0.7,
       "city": "Houston, Texas",
       "venue": "NRG Stadium",
       "home_score": 0,
@@ -71,13 +71,13 @@
       "home": "uruguay",
       "away": "spain",
       "match_time": "2026-06-27T00:00Z",
-      "hours_until": -0.5,
+      "hours_until": -0.7,
       "city": "Guadalajara",
       "venue": "Estadio Akron",
       "home_score": 0,
       "away_score": 0,
       "state": "in",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "money_line": {
         "win_a": "19.1",
         "draw": "25.3",

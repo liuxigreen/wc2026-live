@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-27 01:38 UTC",
+  "updated_at": "2026-06-27 02:18 UTC",
   "matches": [
     {
       "home": "cape-verde",
       "away": "saudi-arabia",
       "match_time": "2026-06-27T00:00Z",
-      "hours_until": -1.6,
+      "hours_until": -2.3,
       "city": "Houston, Texas",
       "venue": "NRG Stadium",
       "home_score": 0,
@@ -71,7 +71,7 @@
       "home": "uruguay",
       "away": "spain",
       "match_time": "2026-06-27T00:00Z",
-      "hours_until": -1.6,
+      "hours_until": -2.3,
       "city": "Guadalajara",
       "venue": "Estadio Akron",
       "home_score": 0,

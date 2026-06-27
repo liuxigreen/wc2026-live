@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-27 03:41 UTC",
+  "updated_at": "2026-06-27 03:51 UTC",
   "matches": [
     {
       "home": "egypt",
       "away": "iran",
       "match_time": "2026-06-27T03:00Z",
-      "hours_until": -0.7,
+      "hours_until": -0.9,
       "city": "Seattle, Washington",
       "venue": "Lumen Field",
       "home_score": 1,
@@ -71,7 +71,7 @@
       "home": "new-zealand",
       "away": "belgium",
       "match_time": "2026-06-27T03:00Z",
-      "hours_until": -0.7,
+      "hours_until": -0.9,
       "city": "Vancouver",
       "venue": "BC Place",
       "home_score": 0,

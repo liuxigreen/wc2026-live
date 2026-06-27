@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-27 21:47 UTC",
+  "updated_at": "2026-06-27 22:21 UTC",
   "matches": [
     {
       "home": "croatia",
       "away": "ghana",
       "match_time": "2026-06-27T21:00Z",
-      "hours_until": -0.8,
+      "hours_until": -1.4,
       "city": "Philadelphia, Pennsylvania",
       "venue": "Lincoln Financial Field",
       "home_score": 1,
@@ -71,7 +71,7 @@
       "home": "panama",
       "away": "england",
       "match_time": "2026-06-27T21:00Z",
-      "hours_until": -0.8,
+      "hours_until": -1.4,
       "city": "East Rutherford, New Jersey",
       "venue": "MetLife Stadium",
       "home_score": 0,

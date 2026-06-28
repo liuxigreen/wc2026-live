@@ -1,83 +1,17 @@
 {
-  "updated_at": "2026-06-28 01:30 UTC",
+  "updated_at": "2026-06-28 01:46 UTC",
   "matches": [
-    {
-      "home": "colombia",
-      "away": "portugal",
-      "match_time": "2026-06-27T23:30Z",
-      "hours_until": -2.0,
-      "city": "Miami Gardens, Florida",
-      "venue": "Hard Rock Stadium",
-      "home_score": 0,
-      "away_score": 0,
-      "state": "in",
-      "status": "STATUS_HALFTIME",
-      "money_line": {
-        "win_a": "36.3",
-        "draw": "27.9",
-        "win_b": "35.8"
-      },
-      "xg": {
-        "a": "1.39",
-        "b": "1.38"
-      },
-      "elo": {
-        "a": 1948,
-        "b": 2001,
-        "diff": -53
-      },
-      "top_scores": [
-        [
-          "1-1",
-          "13.2"
-        ],
-        [
-          "2-1",
-          "8.3"
-        ],
-        [
-          "1-2",
-          "8.3"
-        ]
-      ],
-      "over_under": {
-        "2.5": {
-          "over": "52.2",
-          "under": "47.8"
-        }
-      },
-      "btts": {
-        "yes": "57.3",
-        "no": "42.7"
-      },
-      "spread": {
-        "colombia -1.5": "17.3",
-        "portugal +1.5": "82.7"
-      },
-      "half_time": {
-        "win_a": "28.2",
-        "draw": "43.8",
-        "win_b": "28.0"
-      },
-      "squad_quality": {
-        "a": 0.45,
-        "b": 2.41
-      },
-      "market_odds": null,
-      "ensemble": null,
-      "edge": {}
-    },
     {
       "home": "dr-congo",
       "away": "uzbekistan",
       "match_time": "2026-06-27T23:30Z",
-      "hours_until": -2.0,
+      "hours_until": -2.3,
       "city": "Atlanta, Georgia",
       "venue": "Mercedes-Benz Stadium",
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 1,
       "state": "in",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "money_line": {
         "win_a": "42.4",
         "draw": "27.6",

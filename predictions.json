@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-28 02:25 UTC",
+  "updated_at": "2026-06-28 02:41 UTC",
   "matches": [
     {
       "home": "algeria",
       "away": "austria",
       "match_time": "2026-06-28T02:00Z",
-      "hours_until": -0.4,
+      "hours_until": -0.7,
       "city": "Kansas City, Missouri",
       "venue": "GEHA Field at Arrowhead Stadium",
       "home_score": 0,
@@ -71,11 +71,11 @@
       "home": "jordan",
       "away": "argentina",
       "match_time": "2026-06-28T02:00Z",
-      "hours_until": -0.4,
+      "hours_until": -0.7,
       "city": "Arlington, Texas",
       "venue": "AT&T Stadium",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "state": "in",
       "status": "STATUS_FIRST_HALF",
       "money_line": {

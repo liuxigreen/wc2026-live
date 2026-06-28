@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-06-28 04:03 UTC",
+  "updated_at": "2026-06-28 04:36 UTC",
   "matches": [
     {
-      "home": "algeria",
-      "away": "austria",
-      "match_time": "2026-06-28T02:00Z",
-      "hours_until": -2.1,
-      "city": "Kansas City, Missouri",
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "home_score": 2,
-      "away_score": 2,
-      "state": "in",
-      "status": "STATUS_SECOND_HALF",
+      "home": "south-africa",
+      "away": "canada",
+      "match_time": "2026-06-28T19:00Z",
+      "hours_until": 14.4,
+      "city": "Inglewood, California",
+      "venue": "SoFi Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "STATUS_SCHEDULED",
       "money_line": {
-        "win_a": "32.0",
-        "draw": "27.8",
-        "win_b": "40.2"
+        "win_a": "23.3",
+        "draw": "26.5",
+        "win_b": "50.2"
       },
       "xg": {
-        "a": "1.29",
-        "b": "1.47"
+        "a": "1.08",
+        "b": "1.68"
       },
       "elo": {
-        "a": 1673,
-        "b": 1783,
-        "diff": -110
+        "a": 1532,
+        "b": 1768,
+        "diff": -236
       },
       "top_scores": [
         [
           "1-1",
-          "13.2"
+          "12.6"
         ],
         [
           "1-2",
-          "8.8"
+          "9.6"
         ],
         [
           "0-1",
-          "8.1"
+          "9.5"
         ]
       ],
       "over_under": {
@@ -47,88 +47,153 @@
         }
       },
       "btts": {
-        "yes": "57.1",
-        "no": "42.9"
+        "yes": "54.9",
+        "no": "45.1"
       },
       "spread": {
-        "algeria -1.5": "14.5",
-        "austria +1.5": "85.5"
+        "south-africa -1.5": "9.2",
+        "canada +1.5": "90.8"
       },
       "half_time": {
-        "win_a": "25.7",
-        "draw": "43.8",
-        "win_b": "30.5"
+        "win_a": "20.5",
+        "draw": "43.2",
+        "win_b": "36.3"
       },
       "squad_quality": {
-        "a": -0.34,
-        "b": 0.77
+        "a": -1.98,
+        "b": 0.09
       },
+      "market_odds": {
+        "source": "pinnacle",
+        "time": "2026-06-28T19:00:00Z",
+        "away_odds": 1.69,
+        "away_implied": 59.2,
+        "home_odds": 5.72,
+        "home_implied": 17.5,
+        "draw_odds": 3.69,
+        "draw_implied": 27.1,
+        "fav_spread": -0.75,
+        "fav_odds": 1.91,
+        "dog_spread": 0.75,
+        "dog_odds": 2.0,
+        "over_odds": 1.92,
+        "over_point": 2.25,
+        "under_odds": 1.97
+      },
+      "ensemble": {
+        "win_a": 18.7,
+        "draw": 26.2,
+        "win_b": 55.0,
+        "source": "ensemble"
+      },
+      "edge": {
+        "home": {
+          "model_pct": 23.3,
+          "market_odds": 5.72,
+          "market_implied": 17.5,
+          "edge": 5.8,
+          "kelly_full": 7.1,
+          "kelly_quarter": 1.8,
+          "has_edge": true
+        },
+        "draw": {
+          "model_pct": 26.5,
+          "market_odds": 3.69,
+          "market_implied": 27.1,
+          "edge": -0.6,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "away": {
+          "model_pct": 50.2,
+          "market_odds": 1.69,
+          "market_implied": 59.2,
+          "edge": -9.0,
+          "kelly_full": 0,
+          "kelly_quarter": 0,
+          "has_edge": false
+        },
+        "over": {
+          "market_odds": 1.92,
+          "point": 2.25
+        }
+      }
+    },
+    {
+      "home": "1c",
+      "away": "2f",
+      "match_time": "2026-06-29",
+      "hours_until": 19.4,
+      "city": "",
+      "venue": "",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "Scheduled",
+      "money_line": {},
+      "xg": {
+        "a": "0",
+        "b": "0"
+      },
+      "elo": {
+        "a": 0,
+        "b": 0,
+        "diff": 0
+      },
+      "top_scores": [],
+      "over_under": {
+        "2.5": {
+          "over": "",
+          "under": ""
+        }
+      },
+      "btts": {
+        "yes": "",
+        "no": ""
+      },
+      "spread": {},
+      "half_time": {},
+      "squad_quality": {},
       "market_odds": null,
       "ensemble": null,
       "edge": {}
     },
     {
-      "home": "jordan",
-      "away": "argentina",
-      "match_time": "2026-06-28T02:00Z",
-      "hours_until": -2.1,
-      "city": "Arlington, Texas",
-      "venue": "AT&T Stadium",
-      "home_score": 1,
-      "away_score": 2,
-      "state": "in",
-      "status": "STATUS_SECOND_HALF",
-      "money_line": {
-        "win_a": "2.7",
-        "draw": "12.9",
-        "win_b": "84.4"
-      },
+      "home": "1e",
+      "away": "3rd",
+      "match_time": "2026-06-29",
+      "hours_until": 19.4,
+      "city": "",
+      "venue": "",
+      "home_score": 0,
+      "away_score": 0,
+      "state": "pre",
+      "status": "Scheduled",
+      "money_line": {},
       "xg": {
-        "a": "0.3",
-        "b": "2.46"
+        "a": "0",
+        "b": "0"
       },
       "elo": {
-        "a": 1455,
-        "b": 2158,
-        "diff": -703
+        "a": 0,
+        "b": 0,
+        "diff": 0
       },
-      "top_scores": [
-        [
-          "0-2",
-          "19.1"
-        ],
-        [
-          "0-3",
-          "15.7"
-        ],
-        [
-          "0-1",
-          "15.1"
-        ]
-      ],
+      "top_scores": [],
       "over_under": {
         "2.5": {
-          "over": "52.1",
-          "under": "47.9"
+          "over": "",
+          "under": ""
         }
       },
       "btts": {
-        "yes": "24.4",
-        "no": "75.6"
+        "yes": "",
+        "no": ""
       },
-      "spread": {
-        "jordan -1.5": "0.4",
-        "argentina +1.5": "99.6"
-      },
-      "half_time": {
-        "win_a": "4.5",
-        "draw": "36.1",
-        "win_b": "59.4"
-      },
-      "squad_quality": {
-        "a": -0.46,
-        "b": 2.12
-      },
+      "spread": {},
+      "half_time": {},
+      "squad_quality": {},
       "market_odds": null,
       "ensemble": null,
       "edge": {}
